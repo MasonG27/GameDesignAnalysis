@@ -1,0 +1,29 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = bioshock_doc
+bioshock_doc = element bioshock_doc {meta, document}
+meta = element meta {title, description}
+title = element title {text}
+description = element description {text}
+document = element document {intro, toc, mixed{(page_quote | section | page_num)+}}
+# toc is table of contents, page_num is page number, page_quote is the quote at the top of each page in the document
+intro = element intro {text | quote}
+quote = element quote {text | "speaker"}
+speaker = attribute speaker {text}
+toc = element toc {chapter, start_page, text}
+chapter = attribute chapter {text}
+start_page = attribute start_page {xsd:integer}
+page_quote = element page_quote {origin, location, date}
+origin = element origin {text}
+location = element location {text}
+date = element date {text}
+section = element section {"name" | mixed {(page_quote | item_list | img | table)*}}
+name = attribute name {text}
+item_list = element item_list {li}
+#li is list item / bullet point
+li = element li {text}
+img = element img {description}
+table = element table {text, mixed {(tr | description | title)*}}
+tr = element tr {td}
+td = element td {text}
+page_num = element page_num {xsd:integer}
