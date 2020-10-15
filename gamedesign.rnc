@@ -1,12 +1,15 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start = bioshock_doc
-bioshock_doc = element bioshock_doc {meta, document}
-meta = element meta {title, description}
+start = GamePitch
+#Change start name
+GamePitch = element GamePitch {meta, document}
+meta = element meta {title, description, genre?, date, company, credits}
+#Add to
 title = element title {text}
 description = element description {text}
-document = element document {intro, toc, mixed{(page_quote | section | page_num)+}}
+document = element document {intro, toc, (page_quote | section )+}
 # toc is table of contents, page_num is page number, page_quote is the quote at the top of each page in the document
+#Might change page quote depending on other pitches
 intro = element intro {text | quote}
 quote = element quote {text | "speaker"}
 speaker = attribute speaker {text}
