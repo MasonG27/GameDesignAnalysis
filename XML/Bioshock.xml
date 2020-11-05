@@ -10,468 +10,639 @@
     lastly a copyright notice.-->
     <meta>
         <title>BIOSHOCK</title>
-        <description>
-        FIRST PERSON ACTION HORROR
-        FROM THE CREATORS OF SYSTEM SHOCK 2
-        AND FREEDOM FORCE
-        </description>
+        <description> FIRST PERSON ACTION HORROR FROM THE CREATORS OF SYSTEM SHOCK 2 AND FREEDOM
+            FORCE </description>
         <date>2002</date>
         <company>IRRATIONAL games</company>
         <credits>Irrational games design team</credits>
     </meta>
     <document>
-    <start_page>
-    <img src="images/BioshockPitchStart.PNG"
-        alt="Pitch document from the original Bioshock Game" />
-</start_page>
-<pb/>
-    <!-- Before the table of contents the pitch begins by including a first person introduction scene from the game that makes you feel like you are in the game. This is to grab your attetion with a sense of immersion.-->
-<intro>
-<p>Things grow inside you.</p>
+        <start_page>
+            <img src="images/BioshockPitchStart.PNG"
+                alt="Pitch document from the original Bioshock Game"/>
+        </start_page>
+        <pb/>
+        <!-- Before the table of contents the pitch begins by including a first person introduction scene from the game that makes you feel like you are in the game. This is to grab your attetion with a sense of immersion.-->
+        <intro>
+            <p>Things grow inside you.</p>
 
-<p><quote speaker="unknown">We're part of you now</quote>, you think you hear them say.</p>
+            <p><quote speaker="unknown">We're part of you now</quote>, you think you hear them
+                say.</p>
 
-<p>You step away from the med bench. The diagnostics screen presents a revolting before and after.</p>
+            <p>You step away from the med bench. The diagnostics screen presents a revolting before
+                and after.</p>
 
-<p>On the left side, the before side, you see yourself. What you were. Human.</p>
+            <p>On the left side, the before side, you see yourself. What you were. Human.</p>
 
-<p>And on the right side...what you are. What you've become. The only way you'll survive, the only way you'll-</p>
+            <p>And on the right side...what you are. What you've become. The only way you'll
+                survive, the only way you'll-</p>
 
-<p>From down the corridor, by the power grid: a voice. A sound that floats through the air as if swimming on thick, salty brine:</p>
+            <p>From down the corridor, by the power grid: a voice. A sound that floats through the
+                air as if swimming on thick, salty brine:</p>
 
-    <p><quote speaker="unknown">Prepare ye...prepare ye the way of the Lord-</quote></p>
+            <p><quote speaker="unknown">Prepare ye...prepare ye the way of the Lord-</quote></p>
 
-<p>You tense and feel the unfamiliar organs working. Your new body comes to life without your consent. Chitinous plates slide over your torso, your groin. Bulbous stalks breach your forehead like knitting needles, releasing a salty green liquid that stings what were once your eyes.</p>
+            <p>You tense and feel the unfamiliar organs working. Your new body comes to life without
+                your consent. Chitinous plates slide over your torso, your groin. Bulbous stalks
+                breach your forehead like knitting needles, releasing a salty green liquid that
+                stings what were once your eyes.</p>
 
-<p>You grab the rifle that you've modified through a direct nanite feed. The weapon is attuned to the jellied mass slithering through the corridor, its ammo designed to penetrate the creature's molecular makeup and burn it from the inside. You're glad you dropped the surface humidity by half in your last enviro system hack...that should slow the Man o War down.</p>
+            <p>You grab the rifle that you've modified through a direct nanite feed. The weapon is
+                attuned to the jellied mass slithering through the corridor, its ammo designed to
+                penetrate the creature's molecular makeup and burn it from the inside. You're glad
+                you dropped the surface humidity by half in your last enviro system hack...that
+                should slow the Man o War down.</p>
 
-<p>You can tell by the creature's musky, seaweed stench that it's ready to feed. You can tell by the moaning quality of its prayers that the mass is aroused by your scent.</p>
+            <p>You can tell by the creature's musky, seaweed stench that it's ready to feed. You can
+                tell by the moaning quality of its prayers that the mass is aroused by your
+                scent.</p>
 
-<p>And part of you...the part that is alien and new...is drawn to it in turn.</p>
-</intro>
+            <p>And part of you...the part that is alien and new...is drawn to it in turn.</p>
+        </intro>
 
-<pb/>
+        <pb/>
 
-<toc>
-   <entry><section name="Overview">Overview</section>......<page_start>4</page_start></entry>
-   <entry> <section name="BioShock will">BioShock will:</section> ......<page_start>5</page_start></entry>
-    <entry><section name="You are in Control">You are in Control</section>......<page_start>6</page_start></entry>
-    <entry><section name="Make your Own Weapons">Make your Own Weapons</section>......<page_start>6</page_start></entry>
-   <entry> <section name="Hacking security">Hacking security</section>......<page_start>7</page_start></entry>
-    <entry><section name="Mod the World!">Mod the World!</section>......<page_start>8</page_start></entry>
-    <entry><section name="Genetic Enhancements">Genetic Enhancements</section>......<page_start>9</page_start></entry>
-    <entry><section name="Summary">Summary</section>......<page_start>9</page_start></entry>
- <entry><section name="BIOSHOCK DESIGN ANNEX">BIOSHOCK DESIGN ANNEX</section>......<page_start>10</page_start></entry>
-    <entry><section name="Interface">Interface</section>......<page_start>10</page_start></entry>
-    <entry><section name="The Interface Commandments">The Interface Commandments</section>......<page_start>11</page_start></entry>
-    <entry><section name="The Bad Guys">The Bad Guys</section>......<page_start>14</page_start></entry>
-    <entry><section name="Backstory">Backstory</section>......<page_start>14</page_start></entry>
-    <entry><section name="Multiplayer">Multiplayer</section>......<page_start>16</page_start></entry>
-    <entry><section name="Balance">Balance</section>......<page_start>16</page_start></entry>
-    <entry><section name="Why Irrational?">Why Irrational?</section>......<page_start>18</page_start></entry>
-    <entry><section name="Key Personnel">Key Personnel</section>......<page_start>18</page_start></entry>
-    <entry><section name="Press">Press</section>......<page_start>19</page_start></entry>
-    <entry><section name="Praise for Irrational">Praise for Irrational</section>......<page_start>20</page_start></entry>
-</toc>
+        <toc>
+            <entry><section name="Overview"
+                >Overview</section>......<page_start>4</page_start></entry>
+            <entry>
+                <section name="BioShock will">BioShock will:</section>
+                    ......<page_start>5</page_start></entry>
+            <entry><section name="You are in Control">You are in
+                    Control</section>......<page_start>6</page_start></entry>
+            <entry><section name="Make your Own Weapons">Make your Own
+                    Weapons</section>......<page_start>6</page_start></entry>
+            <entry>
+                <section name="Hacking security">Hacking
+                    security</section>......<page_start>7</page_start></entry>
+            <entry><section name="Mod the World!">Mod the
+                    World!</section>......<page_start>8</page_start></entry>
+            <entry><section name="Genetic Enhancements">Genetic
+                    Enhancements</section>......<page_start>9</page_start></entry>
+            <entry><section name="Summary">Summary</section>......<page_start>9</page_start></entry>
+            <entry><section name="BIOSHOCK DESIGN ANNEX">BIOSHOCK DESIGN
+                    ANNEX</section>......<page_start>10</page_start></entry>
+            <entry><section name="Interface"
+                >Interface</section>......<page_start>10</page_start></entry>
+            <entry><section name="The Interface Commandments">The Interface
+                    Commandments</section>......<page_start>11</page_start></entry>
+            <entry><section name="The Bad Guys">The Bad
+                    Guys</section>......<page_start>14</page_start></entry>
+            <entry><section name="Backstory"
+                >Backstory</section>......<page_start>14</page_start></entry>
+            <entry><section name="Multiplayer"
+                    >Multiplayer</section>......<page_start>16</page_start></entry>
+            <entry><section name="Balance"
+                >Balance</section>......<page_start>16</page_start></entry>
+            <entry><section name="Why Irrational?">Why
+                    Irrational?</section>......<page_start>18</page_start></entry>
+            <entry><section name="Key Personnel">Key
+                    Personnel</section>......<page_start>18</page_start></entry>
+            <entry><section name="Press">Press</section>......<page_start>19</page_start></entry>
+            <entry><section name="Praise for Irrational">Praise for
+                    Irrational</section>......<page_start>20</page_start></entry>
+        </toc>
 
-<pb/>
+        <pb/>
 
-<hr/>
-<page_quote>"Most of his teeth were gone...only a few remained in front and they were covered with a tough scabrous material with visible mineral striations...similar to what you'd find in a barnacle..."
-    - <origin>Autopsy report</origin>, <location>Isla de Salvación</location>, <date>April 12, 2007</date></page_quote>
-<hr/>
+        <hr/>
+        <page_quote>"Most of his teeth were gone...only a few remained in front and they were
+            covered with a tough scabrous material with visible mineral striations...similar to what
+            you'd find in a barnacle..." - <origin>Autopsy report</origin>, <location>Isla de
+                Salvación</location>, <date>April 12, 2007</date></page_quote>
+        <hr/>
 
-<section name="Overview">
-    <title>Overview</title>
+        <section name="Overview">
+            <title>Overview</title>
+            <p>BioShock is the spiritual successor to System Shock 2, <date>1999's</date> game of
+                the year. <company>Irrational Games</company>, the creators of Shock 2 and Freedom
+                Force are about to introduce the definitive interactive world simulation. Harnessing
+                the key minds behind Thief, System Shock 2 and Freedom Force, as well as the
+                rendering powerhouse that is the Unreal Warfare engine, Irrational is poised to
+                re-invent the first person action RPG.</p>
+            <p>BioShock is a modern day nightmare of the terrifying nexus between religious
+                fanaticism and unbounded science. The player must come to grips with the remnants of
+                a dangerous cult and the technological and biological horrors they've created in
+                their giant underground and undersea complex that lies beneath the sands of a
+                seemingly deserted island.</p>
+            <p>While building on the tried and true first person shooter gameplay, BioShock
+                innovates in a number of key areas:</p>
+            <item_list>
+                <b>Game Design-BioShock gives the player absolute control; of their environments as
+                    well as in the creation of their own weapons and bio-modifications. The only
+                    limit is their imagination.</b>
 
-<p>BioShock is the spiritual successor to System Shock 2, <date>1999's</date> game of the year. <company>Irrational Games</company>, the creators of Shock 2 and Freedom Force are about to introduce the definitive interactive world simulation. Harnessing the key minds behind Thief, System Shock 2 and Freedom Force, as well as the rendering powerhouse that is the Unreal Warfare engine, Irrational is poised to re-invent the first person action RPG.</p>
+                <b>Visuals-The Unreal Warfare engine leveages both the power of today's
+                    computers...and tomorrows. Using a highly modified version of this engine,
+                    BioShock features some of the most stunning visuals ever seen in a first-person
+                    shooter.</b>
 
-<p>BioShock is a modern day nightmare of the terrifying nexus between religious fanaticism and unbounded science. The player must come to grips with the remnants of a dangerous cult and the technological and biological horrors they've created in their giant underground and undersea complex that lies beneath the sands of a seemingly deserted island.</p>
+                <b>Physics-BioShock utilizes the industry proven Karma physics engine to provide
+                    unprecedented in game solid body and "rag doll" support[.]</b>
 
-<p>While building on the tried and true first person shooter gameplay, BioShock innovates in a number of key areas:</p>
+                <b>Multiplayer-BioShock allows players to face one another in Story Based
+                    Deathmatch.</b>
 
-<item_list>
-    <b>Game Design-BioShock gives the player absolute control; of their environments as well as in the creation of their own weapons and bio-modifications. The only limit is their imagination.</b>
+                <b>Story-BioShock's dark, sophisticated and relentless story is being written by Ken
+                    Levine, the writer behind System Shock 2, Thief and Freedom Force.</b>
+            </item_list>
+            <p>BioShock is a horrifying, sophisticated, visually stunning, open-ended experience
+                that will leave players gasping for breath. It is the first person action nightmare
+                that only Irrational could deliver.</p>
+        </section>
 
-<b>Visuals-The Unreal Warfare engine leveages both the power of today's computers...and tomorrows. Using a highly modified version of this engine, BioShock features some of the most stunning visuals ever seen in a first-person shooter.</b>
+        <pb/>
 
-<b>Physics-BioShock utilizes the industry proven Karma physics engine to provide unprecedented in game solid body and "rag doll" support[.]</b>
-
-<b>Multiplayer-BioShock allows players to face one another in Story Based Deathmatch.</b>
-
-<b>Story-BioShock's dark, sophisticated and relentless story is being written by Ken Levine, the writer behind System Shock 2, Thief and Freedom Force.</b>
-</item_list>
-
-<p>BioShock is a horrifying, sophisticated, visually stunning, open-ended experience that will leave players gasping for breath. It is the first person action nightmare that only Irrational could deliver.</p>
-</section>
-
-<pb/>
-
-<hr/>
-<page_quote>"Anisette, if you are hearing this, do not, I repeat, do not come looking for me. No matter what you see...or what you hear. I'm no longer your husband. I'm no longer Bernado. I've become...something else entirely."
-    - <origin>MP3 Log file of Bernado Castille</origin>, <location>Isla de Salvación</location>, <date>April 9, 2007</date></page_quote>
-<hr/>
+        <hr/>
+        <page_quote>"Anisette, if you are hearing this, do not, I repeat, do not come looking for
+            me. No matter what you see...or what you hear. I'm no longer your husband. I'm no longer
+            Bernado. I've become...something else entirely." - <origin>MP3 Log file of Bernado
+                Castille</origin>, <location>Isla de Salvación</location>, <date>April 9,
+                2007</date></page_quote>
+        <hr/>
 
         <section name="BioShock will">
             <title>BioShock will:</title>
-<item_list>
-    <b>Redefine the first person shooter on console and PC by immersing the player in a reactive and modifiable world.</b>
-    <b>Be the most visually stunning Unreal game ever created.</b>
-    <b>Unparalleled physics support via the Karma physics engine.</b>
-    <b>Establish a new franchise that has strong potential as a film and television property (Irrational's most recent game, The Lost, has just been sold as a feature film to BBC films).</b>
-    <b>Provide an accessible and transparent interface.</b>
-    <b>Tell a mature, terrifying story.</b>
-    <b>Scare the hell out of people.</b>
-</item_list>
+            <item_list>
+                <b>Redefine the first person shooter on console and PC by immersing the player in a
+                    reactive and modifiable world.</b>
+                <b>Be the most visually stunning Unreal game ever created.</b>
+                <b>Unparalleled physics support via the Karma physics engine.</b>
+                <b>Establish a new franchise that has strong potential as a film and television
+                    property (Irrational's most recent game, The Lost, has just been sold as a
+                    feature film to BBC films).</b>
+                <b>Provide an accessible and transparent interface.</b>
+                <b>Tell a mature, terrifying story.</b>
+                <b>Scare the hell out of people.</b>
+            </item_list> [image, saved as "BioShock_will_img-01.png"] </section>
 
-[image, saved as "BioShock_will_img-01.png"]
-        </section>
+        <pb/>
 
-<pb/>
-
-<hr/>
-<page_quote>"We had a service on the beach this morning and the strangest thing happened. In the middle of the singing of the Kyrie, animals began to beach themselves near our group, wriggling in the sand as if they were trying to reach us. Brother Elias wouldn't let us stop singing, not matter what crawled out of the water to meet us.["]
-    - <origin>MP3 Log File of Brother Timothy</origin>, <location>Isla de Salvación</location>, <date>March 19, 2007</date></page_quote>
-<hr/>
+        <hr/>
+        <page_quote>"We had a service on the beach this morning and the strangest thing happened. In
+            the middle of the singing of the Kyrie, animals began to beach themselves near our
+            group, wriggling in the sand as if they were trying to reach us. Brother Elias wouldn't
+            let us stop singing, not matter what crawled out of the water to meet us.["] -
+                <origin>MP3 Log File of Brother Timothy</origin>, <location>Isla de
+                Salvación</location>, <date>March 19, 2007</date></page_quote>
+        <hr/>
 
         <section name="You are in Control">
             <title>You are in Control</title>
-
-            <p>The player takes on the role of Carlos Cuello, a down and out "deprogrammer" assigned to infiltrate a religious cult on a remote island and "rescue" a wealthy heiress from the clutches of the cultists. Once on the island, however, you find out that all is not as it seems.</p>
-
-            <p>BioShock features an unprecedented level of player customization and interaction during the course of play. This customization is accessed through three different axes -- Weapons, Environmental manipulation and Genetic modifications.</p>
-
-            <p>Players will be able to use their resources to conceive and construct their own weapons, alter their surroundings and even mutate the very nature of their cellular structure!</p>
+            <p>The player takes on the role of Carlos Cuello, a down and out "deprogrammer" assigned
+                to infiltrate a religious cult on a remote island and "rescue" a wealthy heiress
+                from the clutches of the cultists. Once on the island, however, you find out that
+                all is not as it seems.</p>
+            <p>BioShock features an unprecedented level of player customization and interaction
+                during the course of play. This customization is accessed through three different
+                axes -- Weapons, Environmental manipulation and Genetic modifications.</p>
+            <p>Players will be able to use their resources to conceive and construct their own
+                weapons, alter their surroundings and even mutate the very nature of their cellular
+                structure!</p>
         </section>
 
         <section name="Make your Own Weapons">
-        <title>Make your Own Weapons</title>
-            <p>In most first-person shooters players can expect the standard array of modern and sci-fi weapons including a pistol, shotgun, chaingun, and sniper rifle. In these games you find the 8-10 weapons during the course of the game and what you see is what you get. In BioShock, your weapons are limited only by your imagination!</p>
+            <title>Make your Own Weapons</title>
+            <p>In most first-person shooters players can expect the standard array of modern and
+                sci-fi weapons including a pistol, shotgun, chaingun, and sniper rifle. In these
+                games you find the 8-10 weapons during the course of the game and what you see is
+                what you get. In BioShock, your weapons are limited only by your imagination!</p>
+            <p>BioShock features an incredibly deep weapon system, which is unlike anything the
+                shooter genre has ever seen. Inspired by the superpower creation tool in
+                Irrational's hit Freedom Force, players can create any weapon they want from a set
+                of attributes and components. For instance, players may start with a stock slug
+                thrower. Through the fantastic technology in the cult facility, the player could add
+                components such as an extended barrel and magnifying scope to create a sniper
+                rifle.</p>
+            <p>Players can modify their weapons to fit the current situation. Are you having trouble
+                with the hard-shelled lobster mutant? Modify your base shotgun to fire acid filled
+                pellets in addition to the normal buckshot. Still not getting enough stopping power
+                from your shotgun? Add a few more barrels to make a quadruple-barreled
+                monstrosity.</p>
+            <p>"Vanilla" weapon archetypes (e.g. slug thrower, missile launcher, chemical projector,
+                etc.) that are found around the island can be molded into more powerful, customized
+                versions (e.g. fully automatic acid tipped armored piercing assault rifle, etc.)
+                These upgrades may improve the weapon in several aspects, but the more a weapon is
+                upgraded, the more unstable it can become. Players can tweak and modify variables on
+                all of their weapons including:</p>
+            <item_list>
+                <b>rate of fire</b>
+                <b>accuracy</b>
 
-            <p>BioShock features an incredibly deep weapon system, which is unlike anything the shooter genre has ever seen. Inspired by the superpower creation tool in Irrational's hit Freedom Force, players can create any weapon they want from a set of attributes and components. For instance, players may start with a stock slug thrower. Through the fantastic technology in the cult facility, the player could add components such as an extended barrel and magnifying scope to create a sniper rifle.</p>
+                <pb/>
 
-            <p>Players can modify their weapons to fit the current situation. Are you having trouble with the hard-shelled lobster mutant? Modify your base shotgun to fire acid filled pellets in addition to the normal buckshot. Still not getting enough stopping power from your shotgun? Add a few more barrels to make a quadruple-barreled monstrosity.</p>
-
-            <p>"Vanilla" weapon archetypes (e.g. slug thrower, missile launcher, chemical projector, etc.) that are found around the island can be molded into more powerful, customized versions (e.g. fully automatic acid tipped armored piercing assault rifle, etc.) These upgrades may improve the weapon in several aspects, but the more a weapon is upgraded, the more unstable it can become. Players can tweak and modify variables on all of their weapons including:</p>
-<item_list>
-    <b>rate of fire</b>
-    <b>accuracy</b>
-
-<pb/>
-
-    <b>range</b>
-    <b>severity of recoil</b>
-    <b>usable ammo types</b>
-    <b>clip size</b>
-    <b>reload time</b>
-    <b>reliability -- affects how often the weapon jams</b>
-</item_list>
-
-            <p>These modifications wont be cheap though. Players have to wisely use their resources to create a good variety of weapons to deal with the various terrors of the island. These additions will also modify the visuals of the in-game representations of the weapons to create weapons never-before-seen in a first person shooter.</p>
-
+                <b>range</b>
+                <b>severity of recoil</b>
+                <b>usable ammo types</b>
+                <b>clip size</b>
+                <b>reload time</b>
+                <b>reliability -- affects how often the weapon jams</b>
+            </item_list>
+            <p>These modifications wont be cheap though. Players have to wisely use their resources
+                to create a good variety of weapons to deal with the various terrors of the island.
+                These additions will also modify the visuals of the in-game representations of the
+                weapons to create weapons never-before-seen in a first person shooter.</p>
             <p>Weapon examples:</p>
-
-<item_list>
-    <b>Triple barreled, fully-auto shotgun</b>
-    <b>Magnetically powered, silent rail gun</b>
-    <b>Magnetic field grenades (The grenade explodes creating a powerful magnetic field pulling robots into its field. It can even cause bullets to change direction!)</b>
-    <b>Laser sighted sniper rifle...that fires acid coated rounds!</b>
-    <b>Chain lightning tazer pistol.</b>
-</item_list>
-            
-</section>
-
-<section name="Hacking security">
-<title>Hacking security</title>
-
-<p>Like in System Shock 2, BioShock players will be challenged by the island's highly sophisticated security system. Players will have to deal with cameras that can sound alarms, stationary turret emplacements, security robots, and regular security sensor sweeps.</p>
-
-<p>Players are not helpless against these systems, though. They can deal with them in a variety of ways including directly attacking the systems, quietly shutting them down for a period, or commandeering them for their own uses. For instance, players can access security terminals and hack into them. Once into the system the player can do a variety of things:
-</p>
-    <item_list>
-    <b>Shut down the camera security system.</b>
-    <b>Shut down (or take control of) security turrets.</b>
-    <b>Set off false alarms to divert the enemy's attention.</b>
-    <b>Commandeer security robots and control them and their powerful arsenal remotely! Players lose control of their avatar but get a first-person perspective from the robot and now control it directly. But be careful, your avatar is helpless while in control of the robot.</b>
-    </item_list>
-
-[image, saved as "Hacking_security_img-01.png"]
-
-</section>
-<pb/>
-
-<hr/>
-<page_quote>"Frank don't like it when I move things with my head, but then again, Frank was never much help around the house. So I told Frank, if you start moving things with your hands, I'll stop moving them with my mind."
-<origin>- MP3 Log File of Alberta Bennett</origin>, <location>Isla de Salvación</location>, <date>December 8, 2006</date></page_quote>
-<hr/>
-
-<section name="Mod the World!">
-<title>Mod the World!</title>
-
-<p>In System Shock 2, Irrational allowed you to manipulate the environment in a few minor ways. In most games, elements like fog and advanced lighting are strictly aesthetic. In BioShock, Irrational is taking hacking to the next level. Players will not only be able to do all of the aforementioned hacking, but will also be able to hack the behavior of the environment itself! Fog will thicken as the humidity goes up, heat blurring will distort the players vision as the , etc.</p>
-
-<p>By hacking into special terminals distributed around the mysterious complex, players are able to gain access to the environmental controls. Using these controls, the player will be able to change the very nature of the game space. Imagine:</p>
-
-    <item_list>
-    <b>Increase/decrease oxygen content - Increasing the O2[attn: needs to be a little 2], in an area causes explosives to have larger blast radius and deal more damage.</b>
-    <b>Magnetize floor - Causes robots to move more slowly and metal projectiles to be attracted to the floor. Grenades now become sticky bombs.</b>
-    <b>Ionize the air - Increases range and damage of electrical weapons.</b>
-    <b>Gravitational field manipulation - Increase or decrease the gravitational field in the area. Decreased gravity allows players to jump higher and projectiles fly farther before falling to the ground. Increased gravity slows down Als and the player.</b>
-    <b>Electrify the floor - Causes electrical bolts to play across the floor, damaging enemies but making a very dangerous area for you as well.</b>
-    <b>Flood a room - Can drown some enemies, but gives aquatic mutants a distinct advantage.</b>
-    <b>Manipulate temperature - Increasing room temperature can render players invisible to thermal security sweeps, but gives cold-blooded enemies a speed boost. Decreasing the air temperature causes cold-blooded enemies to move more slowly.</b>
-    </item_list>
-
-</section>
-<pb/>
-
-<hr/>
-        <page_quote>"What is the measure of a man? Is it the hands and feet? The eyes and ears? Or is it the Holy Spirit that animates him? If the body is lost, but the soul is saved, is that anything less than a victory?" <origin>- Annals of the Conductor, Chapter V, Verse 11</origin></page_quote>
-
-<hr/>
-
-<section name="Genetic Enhancements">
-<title>Genetic Enhancements</title>
-
-<p>Using the cult's bizarre biogenetic manipulation technology to modify their body to survive, the player can sacrifice their humanity to turn themselves into the ultimate fighting machine. Using bioengineering terminals found around the facility, the player can access advanced genotypes and merge them with his human form. This allows the player to take on capabilities of various aquatic and amphibious creatures.</p>
-
-<p>For instance, the player might discover the Hydrozoan genotype (jellyfish). This genotype will allow the player to turn his skin gelatinous, poison enemies with a touch and appear nearly invisible in the shadows!</p>
-
-<p>Some other Genotypes:</p>
-
-    <item_list>
-    <b>Crustacean: hard shells, claw based secondary attack, etc.</b>
-    <b>Electric eel: echo-electrical senses, electrical attacks, etc.</b>
-    <b>And much more!</b>
-    </item_list>
-
-<p>As the game proceeds, the player can find powerful genetic sequences. Once these are decoded, the player can mutate himself into different genotypes. Each genotype has different strengths and weaknesses and are appropriate for different in game situations. The individual genotypes can be individually improved (e.g.making the Hydrozoan (Jellyfish)) genotype more transparent and therefore less visible to enemies and security systems. Unless, of course, said enemy is a robot that only sees in the infrared spectrum...</p>
-</section>
-
-<section name="Summary">
-<title>Summary</title>
-
-<p>The first person shooter market on PC and especially console is stronger than ever. The race is on to figure out who is going to be the next Halo or Half Life. The staff at Irrational has demonstrated a unique ability to innovate in the first person market in both Thief and System Shock 2. BioShock will be the realization of the promise of those games.</p>
-
-</section> 
-<pb/>
-        
-<section name="BIOSHOCK DESIGN ANNEX">
-    
-[image, saved as "Summary_img-01.png"]
-
-    <title>BIOSHOCK DESIGN ANNEX</title>
-    
-</section>
-
-<section name="Interface">
-<title>Interface</title>
-
-<p>BioShock is a first person shooter plus, not an RPG with shooter elements. The pacing, visuals and level of action all need to be on par with the best of action shooters. Thusly, the interface must adhere, for the most part, to standard first-person conventions in control.</p>
-
-<p>Every action in the game falls underneath these core tasks.</p>
-    <item_list>
-    <b>Character movement</b>
-    <b>Mouselook aim and shooting</b>
-    <b>Interact with objects in the world.</b>
-    <b>Changing ammo types
-        <cb>Different enemies are more or less vulnerable to different types of ammo (e.g. Armored foes fear armor piercing rounds, but are less concerned
-            with high explosive munitions)</cb> 
-    </b>
-<b>Changing fire modes
-    <cb>Semi OR fully automatic, grenades that can bounce OR stick, armor piercing rounds dripping with corrosive acid fired from a scoped sniper rifle with IR capability, etc.</cb>
-</b>
-    </item_list>
-
-<p>Our interface must fulfill two goals:</p>
-<item_list>
-    <b>At heart, it is the interface of a first person shooter</b>
-    <b>Any complexity beyond that must be:
-        <cb>Introduced slowly over time</cb>
-        <cb>Intuitive and simple to use.</cb>
-    </b> 
-</item_list>
-
-[table, to be written out later, but saved as "Interface_table_img-01.png"]
-
-<pb/>
-
-[second part of table, saved as "Interface_table_img-02.png"]
-</section>
-
-<section name="The Interface Commandments">
-<title>The Interface Commandments</title>
-
-<p>In keeping with the design goals of BioShock, we've eliminated or radically streamlined almost all of the complexity of interface management. The shooter market simply will not bear overly complex interfaces.</p>
-
-<p>We've accomplished this via a couple of key changes, which we like to call the "Three Commandments"</p>
-
-[attn: numbered list but not sure how to label]<p>1 - Thou shall not have to deal with an overly complex inventory system</p>
-
-<p>In System Shock 2, the player had to deal with numerous inventory items that he dragged around the screen with a mouse and placed in various inventory "slots". Not the case in BioShock. The three types of objects the player can pick up are:</p>
-
-    <item_list>
-    <b>Ammo and Resources - Ammo is picked up and stored like every other FPS on the planet. As the player walks over it in the world, he "vacuums" it up. The player can never "drop" ammunition, he can only expend it via his weapons. Resources such as nanites, the currency of the BioShock world, are handled in the same way except they are expended in the tech stations (see below).</b>
-    <b>Weapons - Weapon pick up and weapon dropping is handled much like Halo. The player can only have four weapons at any one time.</b>
-    <b>Quest Items - The player will automatically pick up quest items and automatically "use" them at the appropriate time (for example, if the item is a keycard, it will be used when the player interacts with the relevant locked door. Or if the player wants to upgrade his crustacean form, first he must find a genetic sequence that will allow him to do so. These items will be automatically expended when the player interacts with the appropriate genetic modification machine.</b>
-</item_list>
-<p>2 - Thou shall not be bogged down with countless interface screens</p>
-
-<p>System Shock 2 featured a bewildering variety of Windows-like interface screens that the player had to manage-- Weapon modding, hacking, paper doll, inventory, research, weapon repair, etc. The player was forced to manage this complexity through a Windows 95 style set of interface screens, full of buttons, tabs, sliders and other widgets.</p>
-
-<p>One exception to this rule was character growth, which was handled in a unique, refreshing manner. The player couldn't level up his character at will. He could only do at specific "Skill Machines" located around the environment.</p>
-
-<p>In Bioshock, we take this system and run with it. There will be numerous machines in the world for the player to interact with. The interface for using all of these machines is identical: i.e. you press a button. Let's use an example:</p>
-
-<pb/>
-
-<p>Wandering through the installation, the player comes across a machine mounted on the wall. From the distance, it looks something like this:</p>
-
-[image, saved as "Interface_Commandments_img-01.png"]
-
-<p>This is a temperature control device. So what, you may ask? Well, the creatures in BioShock (and the player) are often temperature sensitive. Heating things up around the a[attn: a typo in the document, left in until we decide what to do with it] hydrozoan mutation can slow them down, distract them and make them less likely to notice you coming up behind them. De-humidifying the air will make many foes weak and dehydrated.</p>
-
-<p>The red thermometer icon indicates that the temperature as at the hottest of it's 3 (perhaps 5) possible settings. The player can tell this from across the room. As the player approaches the machine, they hit the RMB, or the B button on the Xbox. This image zooms up in their screen (it will be a 3d model in the world, not a full screen interface)</p>
-
-[image, saved as "Interface_Commandments_img-02.png"]
-
-<p>The player can then use the forward and back keys (W and S) on the pc or the left thumpad on the Xbox to adjust the temperature. The nanite costs indicates how many nanites it will take to make this adjustment. The bar sinister on the top arrow means that the temperature is as hot as the system will allow. When the player right clicks or hit the B button again, this interface is dismissed and any temperature adjustments are made.</p>
-
-<pb/>
-
-<p>Another example is the genotype upgrade machines. These are machines that let the player buy new genotypes and upgrade existing genotypes. Again, the player simply has to approach one of these machines and hit the RMB on the PC or the B button on the Xbox controller. Each genotype only has 3 skills that can be upgraded, so selecting this will be a painless process that only requires (on the PC) the [button] and [button] keys to cycle between genotypes, the [button] and [button] keys to select an upgrade, a LMB to purchase an upgrade.</p>
-
-[image, saved as "Interface_Commandments_img-03.png"]
-
-<p>3- Thou shall be led slowly unto the valley of gameplay depth.</p>
-
-<p>System Shock 2 made a huge mistake: we dumped all of the complexity on the player from moment one. BioShock will address this issue. Besides just massively simplifying the interface, BioShock will slowly dole out depth to the player, just as the player becomes capable of handling it.</p>
-
-<p>The first half hour to hour of the game will play just like a first person shooter. Move forward, move back, shoot, etc. Then the player learns he can use different types of ammo in his gun. After that, the player comes across an environmental control machine. "Hey," they realize after hearing some MP3 logs to this effect, "I turn the oxygen up, my shiny new incendiary rounds will be more effective!"</p>
-
-<p>Then the player will come across a new weapon and a weapons upgrade machine. "Hey, cool, I can upgrade my weapons!" Once the player has the hang of that, we introduce him to his first genotype mod machine. This machine will allow him to upgrade his single current genotype: human. Later on, after the player is comfortable with this system, we will introduce new genotypes for the player to encounter and experiment with. The player will be five to seven hours into the game before he has encountered all of the major game systems.</p>
-</section>
-
-<pb/>
-
-<hr/>
-<page_quote>"Abandon now and forever your provincial precepts of genetics, your pedestrian notions of atomic structure. There is no poetry in your science, no music in your medicine. I've come to teach you to sing."
-    <origin>- Annals of the Conductor, Chapter V, Verse 11</origin></page_quote>
-<hr/>
-
-<section name="The Bad Guys">
-<title>The Bad Guys</title>
-
-<p>A diverse range of enemies will inhabit the world of BioShock. The enemy list will include twisted genetic abominations, fusing human and aquatic creatures DNA with terrifying results. The cultists also realize the value of technology and have experimented in cybernetic enhancements, turning men into bizarre cybernetic killing machines. On top of these two threats, the complex and merciless security system with its robots, gun emplacements and surveillance cameras will be a constant thorn in our hero's side.</p>
-
-<p>Enemy types:</p>
-
-<item_list>
-<b>Human zealot cultist</b>
-<b>Genetically engineered mammal/aquatic hybrids</b>
-<b>Cyborg killers</b>
-<b>Robots</b>
-</item_list>
-
-<p>All of the various monsters have different combinations of resistances and susceptibilities, which make the creation of varied weapons necessary for maximum efficiency against the different creatures you encounter.</p>
-
-<p>Players also encounter the ghostly apparitions of cultists who realized they had signed on for more than they bargained for.</p>
-</section>
-
-<hr/>
-<page_quote>"Love the greatest of the Conductor's creatures as you would the basest. For one day the beast may become your neighbor, and your neighbor the beast." 
-    <origin>- Annals of the Conductor, Chapter V, Verse 11</origin></page_quote>
-<hr/>
-
-<section name="Backstory">
-<title>Backstory</title>
-
-<p>You are Carlos Cuello, a down and out former black ops specialist who has been drummed out of the service due to psychological instability. Taking a job as a deprogrammer (someone who "kidnaps" cult members and de-brainwashes" them), his first job finds him undercover, flying towards a remote island called Salvacion with members of a cultist religious group called "Serene Dawn". Your job: to find the daughter of a captain of industry who has fallen in with the group and bring her back to her waiting parents.</p>
-
-<p>As the plane comes in for a landing, you realize the cultists have seen through your cover. You dodge the bullet intended for you and it buries itself in the skull of the pilot. Now the fun begins...</p>
-
-<pb/>
-
-<p>Part 1: Crash</p>
-
-<p>Pulling your pistol from underneath your seat cushion, you are thrown into a duel to the death with cultists on the plane. A stray cultist bullet slams into the pilot's skull, sending him sprawling over his controls. As the plane noses deeper into its death plunge, the
-orientation of the world changes around you. You will have to fend off the cultist goons and reach the cockpit before the plane slams into the earth.</p>
-
-<p>Pulling yourself from the wreckage of the crash landing, you find yourself on a remote volcanic island. Exploring your surroundings, you realize that the island is several miles in size, covered with tropical vegetation and partitioned by impassable cliffs of volcanic rock. You see thatched native huts, most of which have been burned to the ground. You can see the charred remains of several individuals lying around you, their bodies strange amalgamations of humans...and...and what?</p>
-
-<p>Progressing through a tunnel carved into the very volcano itself, you must struggle through a nightmarish series of encounters in the near darkness. Your gun empty, you soon find a new weapon that looks like a strange, custom pistol. It is made of a material you have never seen before. It appears smooth, unformed, as if it were poured as single piece of alien metal. As you come out of the volcanic tunnel and into a valley you see a sight you were totally unprepared for: the cultic compound. This is no Jonestown, no rag tag collection of huts and pre-fab tin buildings. This is an installation worthy of any superpower. Tall, proud structures of concrete and steel loom over you. Paved, lined roads tear into the heart of the jungle. Power lines ring the installation and traffic signs provide guidance to the bustling population.</p>
-
-<p>Breaking the eerie silence, a steady stream of recorded liturgy issues forth, from the mouth of the cult's leader:</p>
-
-    <!-- [attn: would this be marked as a poem of some sort? it's indented and in the middle of the page] -->
-<p>What is the measure of a man?
-Is it the hands and feet?
-The eyes and ears?
-Or is it the Holy Spint that animates him?
-If the body is lost, but the soul is saved, is that anything less
-Than a victory?</p>
-
-<p>You wonder where everyone went. The place looks like the day after Armageddon. Bodies litter the paved pathways and half the buildings stand in ruins. Something has happened here, something terrible. You also begin to find bodies of other cultists, some with MP3 recorders with audio journals on them. As the tales of the doomed cultists begin to unfold, you find yourself wishing the plane you put down had instead thrown itself into the earth with you onboard.</p>
-
-<p>Part 2 and beyond...</p>
-
-<p>As the player explores the surface installation, they realize they've only seen the tip of the iceberg. They soon discover an underground complex that runs deep under the earth, with various openings to other parts of the island, including:</p>
-
-<pb/>
-
-<item_list>
-    <b>A lagoon overrun by strange amphibious creatures. Strange tendrils whip out of the surf, looking to lacerate the player with barbed fingers.</b>
-<b>A torturous path into the heart of a volcano, plagued by mutated seabirds and secreted, sniping cultists</b>
-<b>A terrifying descent into the bowels of the underground installation, where the player comes to the realization that the structures not only go underground, but under the ocean itself!</b>
-<b>A nightmarish trek through the winding plasti-steel maze of the cultists true home deep beneath the ocean's surface. Massive prehistoric fish bear witness to the modern horrors that seek to destroy the player...and the very species he represents.</b>
-</item_list>
-
-<p>The majority of the game will take place indoors, but the outdoor sequences will be used to provide more gameplay and aesthetic variety.</p>
-</section>
-
-<section name="Multiplayer">
-<title>Multiplayer</title>
-
-The multiplayer aspects of BioShock bring something unique to the genre.
-
-Story based deathmatch. What is it? Imagine playing the single player game. But you're not the protagonist. You're a guy playing on the side of the monsters in the single player campaign. Instead of predictable Als running at the player, a second player (or third, or fourth perhaps) can step into the shoes of various monsters in the world that are nearby the player. These monsters are played in first person view by the second player (the monster player). Under the monster players control, these relatively weak but numerous Als can stage ambushes, leverage AI monster attacks patterns to outflank the player, even play dead and spring back to life as the player comes around the corner.
-
-How is this done technologically? It's not really a technology challenge. It's more of a design challenge. When you build the game, you probably have to lay down three different kinds of monsters in the editor.
-
-<item_list>
-<b>a. Monsters who are only active in single player</b>
-<b>b. Monsters who are only active in multiplayer</b>
-<b>c. Monsters who are active in both single and multiplayer. These monsters
-will be the cause of the most bugs, because they're likely to break stuff in both modes. This means: no using monsters who are needed for cutscenes. No using monsters who are quest relevant, etc. This will definitely require some thinking.</b>
-</item_list>
-</section>
-     
-<section name="Balance">   
-<title>Balance</title>
-
-<p>The more open-ended gameplay becomes, the more stimuli that can be applied to the world and applied by the world onto the player, the dicier game balancing becomes.</p>
-
-<p>Combinatorial growth as presented in BioShock provide many of the benefits of games like Diablo and Freedom Force. It will be impossible to test every possible combination</p>
-
-<pb/>
-
-<p>of character, weapon and environment in every possible moment of play. To successfully balance games with such open-ended systems, we must do two things:</p>
-
-<p>1) Extensively test (i.e. open beta)</p>
-<p>2) Quantify, quantify, quantify.</p>
-
-<p>Game balance doesn't exist in the mind; it exists in dozens of Excel spreadsheets. In these spreadsheets are the hundreds of proposed values that influence gameplay: weapon damage, monster hit points, effects of environmental mods, etc. These spreadsheets are used as a starting point for testing. In the process of testing, inequities are exposed and the data in the spreadsheets must again be modified to reflect the findings of the play testing.</p>
-
-<p>There are no real tricks to balancing. It's work, work, work. Every game Irrational has done has been open ended in nature. Sometimes, you learn about balance after you've finished the game and it goes out to hundreds of thousands of useful data points.</p>
-
-<p>System Shock 2: Too hard. 
-Freedom Force: Much better, perhaps a little easy. If we had a couple more months, it would have been excellent. 
-The Lost: We think pretty good. We are self-funding an extension to the project with the publisher's blessing to work strictly on balance and performance issues.</p>
-
-<p>BioShock is budgeted with a nice sized balancing period at the end of the project, the time where it is most effective.</p>
-
-[image, saved as "Balance_img-01.png", with caption "The joys of balancing The Lost"]
-</section>  
+            <item_list>
+                <b>Triple barreled, fully-auto shotgun</b>
+                <b>Magnetically powered, silent rail gun</b>
+                <b>Magnetic field grenades (The grenade explodes creating a powerful magnetic field
+                    pulling robots into its field. It can even cause bullets to change
+                    direction!)</b>
+                <b>Laser sighted sniper rifle...that fires acid coated rounds!</b>
+                <b>Chain lightning tazer pistol.</b>
+            </item_list>
+        </section>
+
+        <section name="Hacking security">
+            <title>Hacking security</title>
+            <p>Like in System Shock 2, BioShock players will be challenged by the island's highly
+                sophisticated security system. Players will have to deal with cameras that can sound
+                alarms, stationary turret emplacements, security robots, and regular security sensor
+                sweeps.</p>
+            <p>Players are not helpless against these systems, though. They can deal with them in a
+                variety of ways including directly attacking the systems, quietly shutting them down
+                for a period, or commandeering them for their own uses. For instance, players can
+                access security terminals and hack into them. Once into the system the player can do
+                a variety of things: </p>
+            <item_list>
+                <b>Shut down the camera security system.</b>
+                <b>Shut down (or take control of) security turrets.</b>
+                <b>Set off false alarms to divert the enemy's attention.</b>
+                <b>Commandeer security robots and control them and their powerful arsenal remotely!
+                    Players lose control of their avatar but get a first-person perspective from the
+                    robot and now control it directly. But be careful, your avatar is helpless while
+                    in control of the robot.</b>
+            </item_list> [image, saved as "Hacking_security_img-01.png"] </section>
+        <pb/>
+
+        <hr/>
+        <page_quote>"Frank don't like it when I move things with my head, but then again, Frank was
+            never much help around the house. So I told Frank, if you start moving things with your
+            hands, I'll stop moving them with my mind." <origin>- MP3 Log File of Alberta
+                Bennett</origin>, <location>Isla de Salvación</location>, <date>December 8,
+                2006</date></page_quote>
+        <hr/>
+
+        <section name="Mod the World!">
+            <title>Mod the World!</title>
+            <p>In System Shock 2, Irrational allowed you to manipulate the environment in a few
+                minor ways. In most games, elements like fog and advanced lighting are strictly
+                aesthetic. In BioShock, Irrational is taking hacking to the next level. Players will
+                not only be able to do all of the aforementioned hacking, but will also be able to
+                hack the behavior of the environment itself! Fog will thicken as the humidity goes
+                up, heat blurring will distort the players vision as the , etc.</p>
+            <p>By hacking into special terminals distributed around the mysterious complex, players
+                are able to gain access to the environmental controls. Using these controls, the
+                player will be able to change the very nature of the game space. Imagine:</p>
+            <item_list>
+                <b>Increase/decrease oxygen content - Increasing the O2[attn: needs to be a little
+                    2], in an area causes explosives to have larger blast radius and deal more
+                    damage.</b>
+                <b>Magnetize floor - Causes robots to move more slowly and metal projectiles to be
+                    attracted to the floor. Grenades now become sticky bombs.</b>
+                <b>Ionize the air - Increases range and damage of electrical weapons.</b>
+                <b>Gravitational field manipulation - Increase or decrease the gravitational field
+                    in the area. Decreased gravity allows players to jump higher and projectiles fly
+                    farther before falling to the ground. Increased gravity slows down Als and the
+                    player.</b>
+                <b>Electrify the floor - Causes electrical bolts to play across the floor, damaging
+                    enemies but making a very dangerous area for you as well.</b>
+                <b>Flood a room - Can drown some enemies, but gives aquatic mutants a distinct
+                    advantage.</b>
+                <b>Manipulate temperature - Increasing room temperature can render players invisible
+                    to thermal security sweeps, but gives cold-blooded enemies a speed boost.
+                    Decreasing the air temperature causes cold-blooded enemies to move more
+                    slowly.</b>
+            </item_list>
+        </section>
+        <pb/>
+
+        <hr/>
+        <page_quote>"What is the measure of a man? Is it the hands and feet? The eyes and ears? Or
+            is it the Holy Spirit that animates him? If the body is lost, but the soul is saved, is
+            that anything less than a victory?" <origin>- Annals of the Conductor, Chapter V, Verse
+                11</origin></page_quote>
+
+        <hr/>
+
+        <section name="Genetic Enhancements">
+            <title>Genetic Enhancements</title>
+            <p>Using the cult's bizarre biogenetic manipulation technology to modify their body to
+                survive, the player can sacrifice their humanity to turn themselves into the
+                ultimate fighting machine. Using bioengineering terminals found around the facility,
+                the player can access advanced genotypes and merge them with his human form. This
+                allows the player to take on capabilities of various aquatic and amphibious
+                creatures.</p>
+            <p>For instance, the player might discover the Hydrozoan genotype (jellyfish). This
+                genotype will allow the player to turn his skin gelatinous, poison enemies with a
+                touch and appear nearly invisible in the shadows!</p>
+            <p>Some other Genotypes:</p>
+            <item_list>
+                <b>Crustacean: hard shells, claw based secondary attack, etc.</b>
+                <b>Electric eel: echo-electrical senses, electrical attacks, etc.</b>
+                <b>And much more!</b>
+            </item_list>
+            <p>As the game proceeds, the player can find powerful genetic sequences. Once these are
+                decoded, the player can mutate himself into different genotypes. Each genotype has
+                different strengths and weaknesses and are appropriate for different in game
+                situations. The individual genotypes can be individually improved (e.g.making the
+                Hydrozoan (Jellyfish)) genotype more transparent and therefore less visible to
+                enemies and security systems. Unless, of course, said enemy is a robot that only
+                sees in the infrared spectrum...</p>
+        </section>
+
+        <section name="Summary">
+            <title>Summary</title>
+            <p>The first person shooter market on PC and especially console is stronger than ever.
+                The race is on to figure out who is going to be the next Halo or Half Life. The
+                staff at Irrational has demonstrated a unique ability to innovate in the first
+                person market in both Thief and System Shock 2. BioShock will be the realization of
+                the promise of those games.</p>
+        </section>
+        <pb/>
+
+        <section name="BIOSHOCK DESIGN ANNEX"> [image, saved as "Summary_img-01.png"]
+                <title>BIOSHOCK DESIGN ANNEX</title>
+        </section>
+
+        <section name="Interface">
+            <title>Interface</title>
+            <p>BioShock is a first person shooter plus, not an RPG with shooter elements. The
+                pacing, visuals and level of action all need to be on par with the best of action
+                shooters. Thusly, the interface must adhere, for the most part, to standard
+                first-person conventions in control.</p>
+            <p>Every action in the game falls underneath these core tasks.</p>
+            <item_list>
+                <b>Character movement</b>
+                <b>Mouselook aim and shooting</b>
+                <b>Interact with objects in the world.</b>
+                <b>Changing ammo types <cb>Different enemies are more or less vulnerable to
+                        different types of ammo (e.g. Armored foes fear armor piercing rounds, but
+                        are less concerned with high explosive munitions)</cb>
+                </b>
+                <b>Changing fire modes <cb>Semi OR fully automatic, grenades that can bounce OR
+                        stick, armor piercing rounds dripping with corrosive acid fired from a
+                        scoped sniper rifle with IR capability, etc.</cb>
+                </b>
+            </item_list>
+            <p>Our interface must fulfill two goals:</p>
+            <item_list>
+                <b>At heart, it is the interface of a first person shooter</b>
+                <b>Any complexity beyond that must be: <cb>Introduced slowly over time</cb>
+                    <cb>Intuitive and simple to use.</cb>
+                </b>
+            </item_list> [table, to be written out later, but saved as "Interface_table_img-01.png"]
+            <pb/> [second part of table, saved as "Interface_table_img-02.png"] </section>
+
+        <section name="The Interface Commandments">
+            <title>The Interface Commandments</title>
+            <p>In keeping with the design goals of BioShock, we've eliminated or radically
+                streamlined almost all of the complexity of interface management. The shooter market
+                simply will not bear overly complex interfaces.</p>
+            <p>We've accomplished this via a couple of key changes, which we like to call the "Three
+                Commandments"</p> [attn: numbered list but not sure how to label]<p>1 - Thou shall
+                not have to deal with an overly complex inventory system</p>
+            <p>In System Shock 2, the player had to deal with numerous inventory items that he
+                dragged around the screen with a mouse and placed in various inventory "slots". Not
+                the case in BioShock. The three types of objects the player can pick up are:</p>
+            <item_list>
+                <b>Ammo and Resources - Ammo is picked up and stored like every other FPS on the
+                    planet. As the player walks over it in the world, he "vacuums" it up. The player
+                    can never "drop" ammunition, he can only expend it via his weapons. Resources
+                    such as nanites, the currency of the BioShock world, are handled in the same way
+                    except they are expended in the tech stations (see below).</b>
+                <b>Weapons - Weapon pick up and weapon dropping is handled much like Halo. The
+                    player can only have four weapons at any one time.</b>
+                <b>Quest Items - The player will automatically pick up quest items and automatically
+                    "use" them at the appropriate time (for example, if the item is a keycard, it
+                    will be used when the player interacts with the relevant locked door. Or if the
+                    player wants to upgrade his crustacean form, first he must find a genetic
+                    sequence that will allow him to do so. These items will be automatically
+                    expended when the player interacts with the appropriate genetic modification
+                    machine.</b>
+            </item_list>
+            <p>2 - Thou shall not be bogged down with countless interface screens</p>
+            <p>System Shock 2 featured a bewildering variety of Windows-like interface screens that
+                the player had to manage-- Weapon modding, hacking, paper doll, inventory, research,
+                weapon repair, etc. The player was forced to manage this complexity through a
+                Windows 95 style set of interface screens, full of buttons, tabs, sliders and other
+                widgets.</p>
+            <p>One exception to this rule was character growth, which was handled in a unique,
+                refreshing manner. The player couldn't level up his character at will. He could only
+                do at specific "Skill Machines" located around the environment.</p>
+            <p>In Bioshock, we take this system and run with it. There will be numerous machines in
+                the world for the player to interact with. The interface for using all of these
+                machines is identical: i.e. you press a button. Let's use an example:</p>
+            <pb/>
+            <p>Wandering through the installation, the player comes across a machine mounted on the
+                wall. From the distance, it looks something like this:</p> [image, saved as
+            "Interface_Commandments_img-01.png"] <p>This is a temperature control device. So what,
+                you may ask? Well, the creatures in BioShock (and the player) are often temperature
+                sensitive. Heating things up around the a[attn: a typo in the document, left in
+                until we decide what to do with it] hydrozoan mutation can slow them down, distract
+                them and make them less likely to notice you coming up behind them. De-humidifying
+                the air will make many foes weak and dehydrated.</p>
+            <p>The red thermometer icon indicates that the temperature as at the hottest of it's 3
+                (perhaps 5) possible settings. The player can tell this from across the room. As the
+                player approaches the machine, they hit the RMB, or the B button on the Xbox. This
+                image zooms up in their screen (it will be a 3d model in the world, not a full
+                screen interface)</p> [image, saved as "Interface_Commandments_img-02.png"] <p>The
+                player can then use the forward and back keys (W and S) on the pc or the left
+                thumpad on the Xbox to adjust the temperature. The nanite costs indicates how many
+                nanites it will take to make this adjustment. The bar sinister on the top arrow
+                means that the temperature is as hot as the system will allow. When the player right
+                clicks or hit the B button again, this interface is dismissed and any temperature
+                adjustments are made.</p>
+            <pb/>
+            <p>Another example is the genotype upgrade machines. These are machines that let the
+                player buy new genotypes and upgrade existing genotypes. Again, the player simply
+                has to approach one of these machines and hit the RMB on the PC or the B button on
+                the Xbox controller. Each genotype only has 3 skills that can be upgraded, so
+                selecting this will be a painless process that only requires (on the PC) the
+                [button] and [button] keys to cycle between genotypes, the [button] and [button]
+                keys to select an upgrade, a LMB to purchase an upgrade.</p> [image, saved as
+            "Interface_Commandments_img-03.png"] <p>3- Thou shall be led slowly unto the valley of
+                gameplay depth.</p>
+            <p>System Shock 2 made a huge mistake: we dumped all of the complexity on the player
+                from moment one. BioShock will address this issue. Besides just massively
+                simplifying the interface, BioShock will slowly dole out depth to the player, just
+                as the player becomes capable of handling it.</p>
+            <p>The first half hour to hour of the game will play just like a first person shooter.
+                Move forward, move back, shoot, etc. Then the player learns he can use different
+                types of ammo in his gun. After that, the player comes across an environmental
+                control machine. "Hey," they realize after hearing some MP3 logs to this effect, "I
+                turn the oxygen up, my shiny new incendiary rounds will be more effective!"</p>
+            <p>Then the player will come across a new weapon and a weapons upgrade machine. "Hey,
+                cool, I can upgrade my weapons!" Once the player has the hang of that, we introduce
+                him to his first genotype mod machine. This machine will allow him to upgrade his
+                single current genotype: human. Later on, after the player is comfortable with this
+                system, we will introduce new genotypes for the player to encounter and experiment
+                with. The player will be five to seven hours into the game before he has encountered
+                all of the major game systems.</p>
+        </section>
+
+        <pb/>
+
+        <hr/>
+        <page_quote>"Abandon now and forever your provincial precepts of genetics, your pedestrian
+            notions of atomic structure. There is no poetry in your science, no music in your
+            medicine. I've come to teach you to sing." <origin>- Annals of the Conductor, Chapter V,
+                Verse 11</origin></page_quote>
+        <hr/>
+
+        <section name="The Bad Guys">
+            <title>The Bad Guys</title>
+            <p>A diverse range of enemies will inhabit the world of BioShock. The enemy list will
+                include twisted genetic abominations, fusing human and aquatic creatures DNA with
+                terrifying results. The cultists also realize the value of technology and have
+                experimented in cybernetic enhancements, turning men into bizarre cybernetic killing
+                machines. On top of these two threats, the complex and merciless security system
+                with its robots, gun emplacements and surveillance cameras will be a constant thorn
+                in our hero's side.</p>
+            <p>Enemy types:</p>
+            <item_list>
+                <b>Human zealot cultist</b>
+                <b>Genetically engineered mammal/aquatic hybrids</b>
+                <b>Cyborg killers</b>
+                <b>Robots</b>
+            </item_list>
+            <p>All of the various monsters have different combinations of resistances and
+                susceptibilities, which make the creation of varied weapons necessary for maximum
+                efficiency against the different creatures you encounter.</p>
+            <p>Players also encounter the ghostly apparitions of cultists who realized they had
+                signed on for more than they bargained for.</p>
+        </section>
+
+        <hr/>
+        <page_quote>"Love the greatest of the Conductor's creatures as you would the basest. For one
+            day the beast may become your neighbor, and your neighbor the beast." <origin>- Annals
+                of the Conductor, Chapter V, Verse 11</origin></page_quote>
+        <hr/>
+
+        <section name="Backstory">
+            <title>Backstory</title>
+            <p>You are Carlos Cuello, a down and out former black ops specialist who has been
+                drummed out of the service due to psychological instability. Taking a job as a
+                deprogrammer (someone who "kidnaps" cult members and de-brainwashes" them), his
+                first job finds him undercover, flying towards a remote island called Salvacion with
+                members of a cultist religious group called "Serene Dawn". Your job: to find the
+                daughter of a captain of industry who has fallen in with the group and bring her
+                back to her waiting parents.</p>
+            <p>As the plane comes in for a landing, you realize the cultists have seen through your
+                cover. You dodge the bullet intended for you and it buries itself in the skull of
+                the pilot. Now the fun begins...</p>
+            <pb/>
+            <p>Part 1: Crash</p>
+            <p>Pulling your pistol from underneath your seat cushion, you are thrown into a duel to
+                the death with cultists on the plane. A stray cultist bullet slams into the pilot's
+                skull, sending him sprawling over his controls. As the plane noses deeper into its
+                death plunge, the orientation of the world changes around you. You will have to fend
+                off the cultist goons and reach the cockpit before the plane slams into the
+                earth.</p>
+            <p>Pulling yourself from the wreckage of the crash landing, you find yourself on a
+                remote volcanic island. Exploring your surroundings, you realize that the island is
+                several miles in size, covered with tropical vegetation and partitioned by
+                impassable cliffs of volcanic rock. You see thatched native huts, most of which have
+                been burned to the ground. You can see the charred remains of several individuals
+                lying around you, their bodies strange amalgamations of humans...and...and what?</p>
+            <p>Progressing through a tunnel carved into the very volcano itself, you must struggle
+                through a nightmarish series of encounters in the near darkness. Your gun empty, you
+                soon find a new weapon that looks like a strange, custom pistol. It is made of a
+                material you have never seen before. It appears smooth, unformed, as if it were
+                poured as single piece of alien metal. As you come out of the volcanic tunnel and
+                into a valley you see a sight you were totally unprepared for: the cultic compound.
+                This is no Jonestown, no rag tag collection of huts and pre-fab tin buildings. This
+                is an installation worthy of any superpower. Tall, proud structures of concrete and
+                steel loom over you. Paved, lined roads tear into the heart of the jungle. Power
+                lines ring the installation and traffic signs provide guidance to the bustling
+                population.</p>
+            <p>Breaking the eerie silence, a steady stream of recorded liturgy issues forth, from
+                the mouth of the cult's leader:</p>
+            <!-- [attn: would this be marked as a poem of some sort? it's indented and in the middle of the page] -->
+            <p>What is the measure of a man? Is it the hands and feet? The eyes and ears? Or is it
+                the Holy Spint that animates him? If the body is lost, but the soul is saved, is
+                that anything less Than a victory?</p>
+            <p>You wonder where everyone went. The place looks like the day after Armageddon. Bodies
+                litter the paved pathways and half the buildings stand in ruins. Something has
+                happened here, something terrible. You also begin to find bodies of other cultists,
+                some with MP3 recorders with audio journals on them. As the tales of the doomed
+                cultists begin to unfold, you find yourself wishing the plane you put down had
+                instead thrown itself into the earth with you onboard.</p>
+            <p>Part 2 and beyond...</p>
+            <p>As the player explores the surface installation, they realize they've only seen the
+                tip of the iceberg. They soon discover an underground complex that runs deep under
+                the earth, with various openings to other parts of the island, including:</p>
+            <pb/>
+            <item_list>
+                <b>A lagoon overrun by strange amphibious creatures. Strange tendrils whip out of
+                    the surf, looking to lacerate the player with barbed fingers.</b>
+                <b>A torturous path into the heart of a volcano, plagued by mutated seabirds and
+                    secreted, sniping cultists</b>
+                <b>A terrifying descent into the bowels of the underground installation, where the
+                    player comes to the realization that the structures not only go underground, but
+                    under the ocean itself!</b>
+                <b>A nightmarish trek through the winding plasti-steel maze of the cultists true
+                    home deep beneath the ocean's surface. Massive prehistoric fish bear witness to
+                    the modern horrors that seek to destroy the player...and the very species he
+                    represents.</b>
+            </item_list>
+            <p>The majority of the game will take place indoors, but the outdoor sequences will be
+                used to provide more gameplay and aesthetic variety.</p>
+        </section>
+
+        <section name="Multiplayer">
+            <title>Multiplayer</title> The multiplayer aspects of BioShock bring something unique to
+            the genre. Story based deathmatch. What is it? Imagine playing the single player game.
+            But you're not the protagonist. You're a guy playing on the side of the monsters in the
+            single player campaign. Instead of predictable Als running at the player, a second
+            player (or third, or fourth perhaps) can step into the shoes of various monsters in the
+            world that are nearby the player. These monsters are played in first person view by the
+            second player (the monster player). Under the monster players control, these relatively
+            weak but numerous Als can stage ambushes, leverage AI monster attacks patterns to
+            outflank the player, even play dead and spring back to life as the player comes around
+            the corner. How is this done technologically? It's not really a technology challenge.
+            It's more of a design challenge. When you build the game, you probably have to lay down
+            three different kinds of monsters in the editor. <item_list>
+                <b>a. Monsters who are only active in single player</b>
+                <b>b. Monsters who are only active in multiplayer</b>
+                <b>c. Monsters who are active in both single and multiplayer. These monsters will be
+                    the cause of the most bugs, because they're likely to break stuff in both modes.
+                    This means: no using monsters who are needed for cutscenes. No using monsters
+                    who are quest relevant, etc. This will definitely require some thinking.</b>
+            </item_list>
+        </section>
+
+        <section name="Balance">
+            <title>Balance</title>
+            <p>The more open-ended gameplay becomes, the more stimuli that can be applied to the
+                world and applied by the world onto the player, the dicier game balancing
+                becomes.</p>
+            <p>Combinatorial growth as presented in BioShock provide many of the benefits of games
+                like Diablo and Freedom Force. It will be impossible to test every possible
+                combination</p>
+            <pb/>
+            <p>of character, weapon and environment in every possible moment of play. To
+                successfully balance games with such open-ended systems, we must do two things:</p>
+            <p>1) Extensively test (i.e. open beta)</p>
+            <p>2) Quantify, quantify, quantify.</p>
+            <p>Game balance doesn't exist in the mind; it exists in dozens of Excel spreadsheets. In
+                these spreadsheets are the hundreds of proposed values that influence gameplay:
+                weapon damage, monster hit points, effects of environmental mods, etc. These
+                spreadsheets are used as a starting point for testing. In the process of testing,
+                inequities are exposed and the data in the spreadsheets must again be modified to
+                reflect the findings of the play testing.</p>
+            <p>There are no real tricks to balancing. It's work, work, work. Every game Irrational
+                has done has been open ended in nature. Sometimes, you learn about balance after
+                you've finished the game and it goes out to hundreds of thousands of useful data
+                points.</p>
+            <p>System Shock 2: Too hard. Freedom Force: Much better, perhaps a little easy. If we
+                had a couple more months, it would have been excellent. The Lost: We think pretty
+                good. We are self-funding an extension to the project with the publisher's blessing
+                to work strictly on balance and performance issues.</p>
+            <p>BioShock is budgeted with a nice sized balancing period at the end of the project,
+                the time where it is most effective.</p> [image, saved as "Balance_img-01.png", with
+            caption "The joys of balancing The Lost"] </section>
 
     </document>
 </GamePitch>
