@@ -1,5 +1,11 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-
+#GP - controls/mp/
+#Setting - theme/layout
+#Lore -story
+#NPC -bosses/enemies
+#Player - you
+#Marketing
+#Development schedule/timeline
 start = GamePitch
 #Change start name
 GamePitch = element GamePitch {meta, document}
