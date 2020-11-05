@@ -1,0 +1,40 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = GamePitch
+#Change start name
+GamePitch = element GamePitch {meta, document}
+meta = element meta {title, description, date, company, credits}
+#Add to
+title = element title {text}
+description = element description {text}
+document = element document {start_page, pb, intro, pb, toc, (page_quote | section | pb | hr)+}
+company = element company {text}
+credits = element credits {text}
+# toc is table of contents, page_num is page number, page_quote is the quote at the top of each page in the document
+#Might change page quote depending on other pitches
+start_page = element start_page {img}
+img = element img {"src" | "alt" | empty}
+src = attribute src {text}
+alt = attribute alt {text}
+intro = element intro {p+ | quote}
+p = element p {text | mixed{(date | company)*}}
+quote = element quote {text | "speaker"}
+speaker = attribute speaker {text}
+toc = element toc {text | mixed {(page_start+ | section+)}}
+page_start = element page_start {xsd:integer}
+page_quote = element page_quote {text | mixed{(origin, location, date)}}
+origin = element origin {text}
+location = element location {text}
+date = element date {text}
+section = element section {"name" | mixed {(title | p | page_quote | item_list | img | table)*}}
+pb = element pb {empty}
+hr = element hr {empty}
+name = attribute name {text}
+item_list = element item_list {b+ | cb* | pb?}
+#li is list item / bullet point
+b = element b {text}
+cb = element cb {text}
+table = element table {text, mixed {(tr | description | title)*}}
+tr = element tr {td}
+td = element td {text}
+page_num = element page_num {xsd:integer}
