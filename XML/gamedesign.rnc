@@ -13,12 +13,12 @@ credits = element credits {text}
 # toc is table of contents, page_num is page number, page_quote is the quote at the top of each page in the document
 #Might change page quote depending on other pitches
 start_page = element start_page {img}
-img = element img {"src" | "alt" | empty}
+img = element img {src, alt, empty}
 src = attribute src {text}
 alt = attribute alt {text}
 intro = element intro {p+ | quote}
 p = element p {text | mixed{(date | company | quote)*}}
-quote = element quote {text | "speaker"}
+quote = element quote {text | speaker}
 speaker = attribute speaker {text}
 toc = element toc {text | mixed {(page_start+ | section+)}}
 page_start = element page_start {xsd:integer}
@@ -26,7 +26,7 @@ page_quote = element page_quote {text | mixed{(origin, location, date)}}
 origin = element origin {text}
 location = element location {text}
 date = element date {text}
-section = element section {"name" | mixed {(title | p | page_quote | item_list | img | table)*}}
+section = element section {name | mixed {(title | p | page_quote | item_list | img | table)*}}
 pb = element pb {empty}
 hr = element hr {empty}
 name = attribute name {text}
