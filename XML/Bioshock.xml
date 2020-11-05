@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Documents/GitHub/GameDesignAnalysis/gamedesign.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="gamedesign.rnc" type="application/relax-ng-compact-syntax"?>
 <GamePitch>
     <!-- The document begins with a presentation of image art, including the name of the game BIOSHOCK with a 
     short description; 
