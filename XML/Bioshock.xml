@@ -53,25 +53,25 @@
 <pb/>
 
 <toc>
-    <section name="Overview">Overview</section>......<page_start>4</page_start>
-    <section name="BioShock will">BioShock will:</section> ......<page_start>5</page_start>
-    <section name="You are in Control">You are in Control</section>......<page_start>6</page_start>
-    <section name="Make your Own Weapons">Make your Own Weapons</section>......<page_start>6</page_start>
-    <section name="Hacking security">Hacking security</section>......<page_start>7</page_start>
-    <section name="Mod the World!">Mod the World!</section>......<page_start>8</page_start>
-    <section name="Genetic Enhancements">Genetic Enhancements</section>......<page_start>9</page_start>
-    <section name="Summary">Summary</section>......<page_start>9</page_start>
-    <section name="BIOSHOCK DESIGN ANNEX">BIOSHOCK DESIGN ANNEX</section>......<page_start>10</page_start>
-    <section name="Interface">Interface</section>......<page_start>10</page_start>
-    <section name="The Interface Commandments">The Interface Commandments</section>......<page_start>11</page_start>
-    <section name="The Bad Guys">The Bad Guys</section>......<page_start>14</page_start>
-    <section name="Backstory">Backstory</section>......<page_start>14</page_start>
-    <section name="Multiplayer">Multiplayer</section>......<page_start>16</page_start>
-    <section name="Balance">Balance</section>......<page_start>16</page_start>
-    <section name="Why Irrational?">Why Irrational?</section>......<page_start>18</page_start>
-    <section name="Key Personnel">Key Personnel</section>......<page_start>18</page_start>
-    <section name="Press">Press</section>......<page_start>19</page_start>
-    <section name="Praise for Irrational">Praise for Irrational</section>......<page_start>20</page_start>
+   <entry><section name="Overview">Overview</section>......<page_start>4</page_start></entry>
+   <entry> <section name="BioShock will">BioShock will:</section> ......<page_start>5</page_start></entry>
+    <entry><section name="You are in Control">You are in Control</section>......<page_start>6</page_start></entry>
+    <entry><section name="Make your Own Weapons">Make your Own Weapons</section>......<page_start>6</page_start></entry>
+   <entry> <section name="Hacking security">Hacking security</section>......<page_start>7</page_start></entry>
+    <entry><section name="Mod the World!">Mod the World!</section>......<page_start>8</page_start></entry>
+    <entry><section name="Genetic Enhancements">Genetic Enhancements</section>......<page_start>9</page_start></entry>
+    <entry><section name="Summary">Summary</section>......<page_start>9</page_start></entry>
+ <entry><section name="BIOSHOCK DESIGN ANNEX">BIOSHOCK DESIGN ANNEX</section>......<page_start>10</page_start></entry>
+    <entry><section name="Interface">Interface</section>......<page_start>10</page_start></entry>
+    <entry><section name="The Interface Commandments">The Interface Commandments</section>......<page_start>11</page_start></entry>
+    <entry><section name="The Bad Guys">The Bad Guys</section>......<page_start>14</page_start></entry>
+    <entry><section name="Backstory">Backstory</section>......<page_start>14</page_start></entry>
+    <entry><section name="Multiplayer">Multiplayer</section>......<page_start>16</page_start></entry>
+    <entry><section name="Balance">Balance</section>......<page_start>16</page_start></entry>
+    <entry><section name="Why Irrational?">Why Irrational?</section>......<page_start>18</page_start></entry>
+    <entry><section name="Key Personnel">Key Personnel</section>......<page_start>18</page_start></entry>
+    <entry><section name="Press">Press</section>......<page_start>19</page_start></entry>
+    <entry><section name="Praise for Irrational">Praise for Irrational</section>......<page_start>20</page_start></entry>
 </toc>
 
 <pb/>
@@ -201,8 +201,8 @@
 <pb/>
 
 <hr/>
-<page_quote>"Frank don't like it when I move things with my head, but then again, Frank was never much help around the house. So I told Frank, if you start moving things with your hands, I'll stop moving them with my mind."</page_quote>
-<origin>- MP3 Log File of Alberta Bennett</origin>, <location>Isla de Salvación</location>, <date>December 8, 2006</date>
+<page_quote>"Frank don't like it when I move things with my head, but then again, Frank was never much help around the house. So I told Frank, if you start moving things with your hands, I'll stop moving them with my mind."
+<origin>- MP3 Log File of Alberta Bennett</origin>, <location>Isla de Salvación</location>, <date>December 8, 2006</date></page_quote>
 <hr/>
 
 <section name="Mod the World!">
@@ -226,8 +226,8 @@
 <pb/>
 
 <hr/>
-<page_quote>"What is the measure of a man? Is it the hands and feet? The eyes and ears? Or is it the Holy Spirit that animates him? If the body is lost, but the soul is saved, is that anything less than a victory?"</page_quote>
-<origin>- Annals of the Conductor, Chapter V, Verse 11</origin>
+        <page_quote>"What is the measure of a man? Is it the hands and feet? The eyes and ears? Or is it the Holy Spirit that animates him? If the body is lost, but the soul is saved, is that anything less than a victory?" <origin>- Annals of the Conductor, Chapter V, Verse 11</origin></page_quote>
+
 <hr/>
 
 <section name="Genetic Enhancements">
@@ -274,19 +274,22 @@
     <b>Character movement</b>
     <b>Mouselook aim and shooting</b>
     <b>Interact with objects in the world.</b>
-    <b>Changing ammo types</b>
-    <cb>Different enemies are more or less vulnerable to different types of ammo (e.g. Armored foes fear armor piercing rounds, but are less concerned</cb>
-with high explosive munitions)
-<b>Changing fire modes</b>
+    <b>Changing ammo types
+        <cb>Different enemies are more or less vulnerable to different types of ammo (e.g. Armored foes fear armor piercing rounds, but are less concerned
+            with high explosive munitions)</cb> 
+    </b>
+<b>Changing fire modes
     <cb>Semi OR fully automatic, grenades that can bounce OR stick, armor piercing rounds dripping with corrosive acid fired from a scoped sniper rifle with IR capability, etc.</cb>
+</b>
     </item_list>
 
 <p>Our interface must fulfill two goals:</p>
 <item_list>
     <b>At heart, it is the interface of a first person shooter</b>
-    <b>Any complexity beyond that must be:</b>
-    <cb>Introduced slowly over time</cb>
-    <cb>Intuitive and simple to use.</cb>
+    <b>Any complexity beyond that must be:
+        <cb>Introduced slowly over time</cb>
+        <cb>Intuitive and simple to use.</cb>
+    </b> 
 </item_list>
 
 [table, to be written out later, but saved as "Interface_table_img-01.png"]
@@ -352,8 +355,8 @@ with high explosive munitions)
 <pb/>
 
 <hr/>
-<page_quote>"Abandon now and forever your provincial precepts of genetics, your pedestrian notions of atomic structure. There is no poetry in your science, no music in your medicine. I've come to teach you to sing."</page_quote>
-<origin>- Annals of the Conductor, Chapter V, Verse 11</origin>
+<page_quote>"Abandon now and forever your provincial precepts of genetics, your pedestrian notions of atomic structure. There is no poetry in your science, no music in your medicine. I've come to teach you to sing."
+    <origin>- Annals of the Conductor, Chapter V, Verse 11</origin></page_quote>
 <hr/>
 
 <section name="The Bad Guys">
@@ -376,8 +379,8 @@ with high explosive munitions)
 </section>
 
 <hr/>
-<page_quote>"Love the greatest of the Conductor's creatures as you would the basest. For one day the beast may become your neighbor, and your neighbor the beast." </page_quote>
-<origin>- Annals of the Conductor, Chapter V, Verse 11</origin>
+<page_quote>"Love the greatest of the Conductor's creatures as you would the basest. For one day the beast may become your neighbor, and your neighbor the beast." 
+    <origin>- Annals of the Conductor, Chapter V, Verse 11</origin></page_quote>
 <hr/>
 
 <section name="Backstory">
