@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="gamedesign.rnc" type="application/relax-ng-compact-syntax"?>
+
 <GamePitch>
     <meta>
         <title>Diablo Game Pitch</title>
-        <description>Diablo is a role-playing game created by Condor, Inc and released in 1996. This
-            document, made in 1994, was the original pitch for the game to describe elements such as
-            gameplay, marketing, and development.</description>
+
+        <description>Diablo is a role-playing game created by Condor, Inc and released in 1996. This document, made in 1994, was the original pitch for the game to describe elements such as gameplay, marketing, and development.</description>
         <date>1994</date>
         <company>Condor, Inc</company>
-        <credits/>
+        <credits></credits>
+
     </meta>
     <document>
         <start_page>
@@ -16,6 +17,7 @@
         </start_page>
         <pb/>
         <intro>
+
             <p><dev dtype="marketing">The following is Condor, Inc.'s proposal for a role-playing game, playable on
                 PC-compatible computers. Diablo captures familiar fantasy elements within a unique
                 structure designed for maximum replayability, expandability, and versatility. Diablo
