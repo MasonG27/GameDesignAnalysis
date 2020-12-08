@@ -1,12 +1,11 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+#STRUCTURE CONTENT
 start = GamePitch
-#Change start name
 GamePitch = element GamePitch {meta, document}
 meta = element meta {title, description, date, company, credits}
-#Add to
 title = element title {text}
 description = element description {text}
-document = element document {start_page, pb, intro, pb, toc, (page_quote | section | pb | hr)+}
+document = element document {start_page, pb, intro, pb?, toc?, (page_quote | section | pb | hr)+}
 company = element company {text}
 credits = element credits {text}
 # toc is table of contents, page_num is page number, page_quote is the quote at the top of each page in the document
@@ -15,7 +14,7 @@ start_page = element start_page {img}
 img = element img {src, alt, empty}
 src = attribute src {text}
 alt = attribute alt {text}
-intro = element intro {p+ | quote}
+intro = element intro {mixed{(p+ | img? | title? | pb? | quote?)*}}
 p = element p {mixed{(date | company | quote | gamePlayPattern)*}}
 quote = element quote {speaker, text}
 speaker = attribute speaker {text}
@@ -41,22 +40,27 @@ td = element td {mixed{gamePlayPattern*}}
 page_num = element page_num {xsd:integer}
 
 # GAME CONTENT MARKUP
-gamePlayPattern = (GP | setting | theme | layout | lore | PC | NPC | dev)
+gamePlayPattern = (GP | setting | lore | PC | NPC | dev)
 
+#Gameplay
 GP = element GP {gtype?, mixed{img*}}
-gtype = attribute gtype {"controls" | "mp" | "sp" | text}
+gtype = attribute gtype {"controls" | "mp" | "sp" | "mechanic" | "genre" | text}
 
-setting = element setting {theme?, layout?, mixed{img*}}
-theme = attribute theme {"dark" | "light" | text}
-layout = attribute layout {mixed{img*}}
+#The world
+setting = element setting {stype?, mixed{img*}}
+stype = attribute stype {"theme" | "layout" | "time" | "place" | text}
 
+#Story
 lore = element lore {mixed{img*}}
 
+#PlayerControl
 PC = element PC {role?, mixed{img*}}
 
+#NonPlayerControl
 NPC = element NPC {role, mixed{img*}}
 role = attribute role {"enemy" | "support" | text}
 
+#Developer notes
 dev = element dev {dtype, mixed{img*}}
-dtype = attribute dtype {"marketing" | "timeline" | text}
+dtype = attribute dtype {"marketing" | "timeline" | "background" | "community" | text}
 
