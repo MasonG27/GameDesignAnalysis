@@ -32,7 +32,7 @@
         
         <section name="Game Design">
             <title>GAME DESIGN</title>
-            <title>OVERVIEW:</title>
+            <subTitle>OVERVIEW:</subTitle>
             <p><GP gtype="genre">Diablo is a role playing game</GP> <GP gtype="mechanic">wherein a player creates a single character and guides
                 him through a dungeon in an attempt to find and destroy 'Diablo', the devil himself.
                 All the action takes place in an isometric, three-quarter perspective, with
@@ -76,7 +76,7 @@
                 turn. As soon as all players register an action, the game progresses, regardless of
                 time limit. The ability to play against friends will add to the appeal of the
                 expansion packs as players will seek the upper hand versus their friends.</GP></p>
-            <title>PLOT AND SETTING:</title>
+            <subTitle>PLOT AND SETTING:</subTitle>
             <p><setting stype="theme">Diablo is set in a fantastic, medieval world, where sword-and-sorcery-wielding heroes
                 battle the forces of darkness. The player's character has just had his life thrown
                 upside down when sinister raiders kill his family and destroy his home. Left with
@@ -99,7 +99,7 @@
                 or a living fungus world will have to be explored and conquered.</setting> <dev dtype="marketing">The player will
                 simply have to purchase an expansion disk to have access to these new worlds.</dev></p>
             <pb/>
-            <title>GAMEPLAY:</title>
+            <subTitle>GAMEPLAY:</subTitle>
             <p>A walk-through of an example game session follows:</p>
             <p><GP gtype="mechanic">After starting up the game, the opening cinematic sequence segues into the main menu
                 screen. The three options provided are: New Character, Load Character, and Options.

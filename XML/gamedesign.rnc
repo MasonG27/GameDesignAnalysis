@@ -17,7 +17,7 @@ alt = attribute alt {text}
 
 intro = element intro {mixed{(p+ | img? | title? | pb? | quote?)*}}
 
-p = element p {mixed{(date | company | quote | gamePlayPattern)*}}
+p = element p {mixed{(date | company | quote | title | gamePlayPattern)*}}
 quote = element quote {speaker, text}
 speaker = attribute speaker {text}
 toc = element toc {entry+} 
@@ -28,7 +28,8 @@ page_quote = element page_quote {mixed{(origin | location | date | lore)*}}
 origin = element origin {text}
 location = element location {text}
 date = element date {text}
-section = element section {name, mixed{(title | p | pb | page_quote | item_list | img | table)*}}
+subTitle = element subTitle {text}
+section = element section {name, (title | subTitle | p | pb | page_quote | item_list | img | table)*}
 pb = element pb {empty}
 hr = element hr {empty}
 name = attribute name {text}
@@ -59,10 +60,10 @@ lore = element lore {mixed{img*}}
 PC = element PC {role?, mixed{img*}}
 
 #NonPlayerControl
-NPC = element NPC {role, mixed{img*}}
+NPC = element NPC {role?, mixed{img*}}
 role = attribute role {"enemy" | "support" | text}
 
 #Developer notes
-dev = element dev {dtype, mixed{img*}}
+dev = element dev {dtype?, mixed{img*}}
 dtype = attribute dtype {"marketing" | "timeline" | "background" | "community" | text}
 
