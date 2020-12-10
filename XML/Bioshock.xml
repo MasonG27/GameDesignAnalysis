@@ -19,7 +19,7 @@
     <document>
         <start_page>
             <img src="images/BioshockPitchStart.PNG"
-                alt="Pitch document from the original Bioshock Game"/>
+                alt="start of the page for the pitch document from the original Bioshock Game, includes all meta data."/>
         </start_page>
         <pb/>
         <!-- Before the table of contents the pitch begins by including a first person introduction scene from the game that makes you feel like you are in the game. This is to grab your attetion with a sense of immersion.-->
@@ -175,7 +175,7 @@
                 <b><dev dtype="marketing">>Tell a mature, terrifying story.</dev></b>
                 <b><dev dtype="marketing">Scare the hell out of people.</dev></b>               
             </item_list> 
-            <img src="BioShock_will_img-01.png" alt=""/>
+            <img src="BioShock_will_img-01.png" alt="image of an electrical room from bioshock"/>
         </section>
 
         <pb/>
@@ -276,7 +276,7 @@
                     robot and now control it directly. But be careful, your avatar is helpless while
                     in control of the robot.</GP></b>
             </item_list>
-            <img src="Hacking_security_img-01.png" alt=""/>
+            <img src="Hacking_security_img-01.png" alt="image of the same electrical room but with an enemy on one of the pipes."/>
         </section>
         <pb/>
 
@@ -366,7 +366,11 @@
         </section>
         <pb/>
 
-        <section name="BIOSHOCK DESIGN ANNEX"> [image, saved as "Summary_img-01.png"]
+        <section name="BIOSHOCK DESIGN ANNEX">
+            
+            <pb/>
+            
+            <img src="Summary_img-01.png" alt=""/>
                 <title>BIOSHOCK DESIGN ANNEX</title>
         </section>
 
@@ -398,9 +402,9 @@
                 </b>
             </item_list> 
             <!-- [table, to be written out later, but saved as "Interface_table_img-01.png"] -->
-            <img src="Interface_table_img-01.png" alt=""/>
+            <img src="Interface_table_img-01.png" alt="Bioshocks primary interface controls"/>
             <pb/>
-            <img src="Interface_table_img-02.png" alt=""/>
+            <img src="Interface_table_img-02.png" alt="second half of Bioshocks primary interface controls"/>
              <!-- [second part of table, saved as "Interface_table_img-02.png"] --> 
         </section>
 
@@ -446,7 +450,8 @@
             <pb/>
             <p>Wandering through the installation, the player comes across a machine mounted on the
                 wall. From the distance, it looks something like this:</p>
-            <img src="Interface_Commandments_img-01.png" alt=""/> <p><GP gtype="mechanic">This is a temperature control device. So what,
+            <img src="Interface_Commandments_img-01.png" alt="the interface of a machine which looks like a full red temperature gauge."/> 
+            <p><GP gtype="mechanic">This is a temperature control device. So what,
                 you may ask? Well, the creatures in BioShock (and the player) are often temperature
                 sensitive. Heating things up around the hydrozoan mutation can slow them down, distract
                 them and make them less likely to notice you coming up behind them. De-humidifying
@@ -456,7 +461,7 @@
                 player approaches the machine, <GP gtype="controls">they hit the RMB, or the B button on the Xbox.</GP> This
                 image zooms up in their screen (it will be a 3d model in the world, not a full
                 screen interface)</p> 
-            <img src="Interface_Commandments_img-02.png" alt=""/> <p><GP gtype="controls">The
+            <img src="Interface_Commandments_img-02.png" alt="full red temperature gauge with a up and down arrow, the up arrow is crossed out."/> <p><GP gtype="controls">The
                 player can then use the forward and back keys (W and S) on the pc or the left
                 thumpad on the Xbox to adjust the temperature. The nanite costs indicates how many
                 nanites it will take to make this adjustment. The bar sinister on the top arrow
@@ -471,7 +476,7 @@
                 selecting this will be a painless process that only requires (on the PC) the
                 [button] and [button] keys to cycle between genotypes, the [button] and [button]
                 keys to select an upgrade, a LMB to purchase an upgrade.</GP></p>
-            <img src="Interface_Commandments_img-03.png" alt=""/> <p>3- Thou shall be led slowly unto the valley of
+            <img src="Interface_Commandments_img-03.png" alt="The interface for genotypes"/> <p>3- Thou shall be led slowly unto the valley of
                 gameplay depth.</p>
             <p><dev dtype="background">System Shock 2 made a huge mistake: we dumped all of the complexity on the player
                 from moment one. BioShock will address this issue. Besides just massively
@@ -653,7 +658,7 @@
                 to work strictly on balance and performance issues.</dev></p>
             <p><dev dtype="marketing">BioShock is budgeted with a nice sized balancing period at the end of the project,
                 the time where it is most effective.</dev></p>
-            <img src="Balance_img-01.png" alt="with caption; The joys of balancing The Lost"/> </section>
+            <img src="Balance_img-01.png" alt="spreadsheet of data that reflects findings in playtesting, with caption; The joys of balancing The Lost"/> </section>
 
     </document>
 </GamePitch>
