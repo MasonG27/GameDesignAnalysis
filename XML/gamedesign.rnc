@@ -57,7 +57,7 @@ stype = attribute stype {"theme" | "layout" | "time" | "place" | text}
 lore = element lore {mixed{img*}}
 
 #PlayerControl
-PC = element PC {role?, mixed{img*}}
+PC = element PC {mixed{img*}}
 
 #NonPlayerControl
 NPC = element NPC {role?, mixed{img*}}
