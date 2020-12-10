@@ -173,8 +173,10 @@
                     feature film to BBC films).</dev></b>
                 <b><dev dtype="marketing">Provide an accessible and transparent interface.</dev></b>
                 <b><dev dtype="marketing">>Tell a mature, terrifying story.</dev></b>
-                <b><dev dtype="marketing">Scare the hell out of people.</dev></b>
-            </item_list> [image, saved as "BioShock_will_img-01.png"] </section>
+                <b><dev dtype="marketing">Scare the hell out of people.</dev></b>               
+            </item_list> 
+            <img src="BioShock_will_img-01.png" alt=""/>
+        </section>
 
         <pb/>
 
@@ -273,7 +275,9 @@
                     Players lose control of their avatar but get a first-person perspective from the
                     robot and now control it directly. But be careful, your avatar is helpless while
                     in control of the robot.</GP></b>
-            </item_list> [image, saved as "Hacking_security_img-01.png"] </section>
+            </item_list>
+            <img src="Hacking_security_img-01.png" alt=""/>
+        </section>
         <pb/>
 
         <hr/>
@@ -392,8 +396,13 @@
                 <b>Any complexity beyond that must be: <cb>Introduced slowly over time</cb>
                     <cb>Intuitive and simple to use.</cb>
                 </b>
-            </item_list> [table, to be written out later, but saved as "Interface_table_img-01.png"]
-            <pb/> [second part of table, saved as "Interface_table_img-02.png"] </section>
+            </item_list> 
+            <!-- [table, to be written out later, but saved as "Interface_table_img-01.png"] -->
+            <img src="Interface_table_img-01.png" alt=""/>
+            <pb/>
+            <img src="Interface_table_img-02.png" alt=""/>
+             <!-- [second part of table, saved as "Interface_table_img-02.png"] --> 
+        </section>
 
         <section name="The Interface Commandments">
             <title>The Interface Commandments</title>
@@ -401,7 +410,7 @@
                 streamlined almost all of the complexity of interface management. The shooter market
                 simply will not bear overly complex interfaces.</p>
             <p>We've accomplished this via a couple of key changes, which we like to call the "Three
-                Commandments"</p> [attn: numbered list but not sure how to label]<p>1 - Thou shall
+                Commandments"</p> <!-- [attn: numbered list but not sure how to label] --><p>1 - Thou shall
                 not have to deal with an overly complex inventory system</p>
             <p><dev dtype="background">In System Shock 2, the player had to deal with numerous inventory items that he
                 dragged around the screen with a mouse and placed in various inventory "slots". Not
@@ -436,8 +445,8 @@
                 machines is identical: i.e. you press a button. Let's use an example:</p>
             <pb/>
             <p>Wandering through the installation, the player comes across a machine mounted on the
-                wall. From the distance, it looks something like this:</p> [image, saved as
-            "Interface_Commandments_img-01.png"] <p><GP gtype="mechanic">This is a temperature control device. So what,
+                wall. From the distance, it looks something like this:</p>
+            <img src="Interface_Commandments_img-01.png" alt=""/> <p><GP gtype="mechanic">This is a temperature control device. So what,
                 you may ask? Well, the creatures in BioShock (and the player) are often temperature
                 sensitive. Heating things up around the hydrozoan mutation can slow them down, distract
                 them and make them less likely to notice you coming up behind them. De-humidifying
@@ -446,7 +455,8 @@
                 (perhaps 5) possible settings. The player can tell this from across the room. As the
                 player approaches the machine, <GP gtype="controls">they hit the RMB, or the B button on the Xbox.</GP> This
                 image zooms up in their screen (it will be a 3d model in the world, not a full
-                screen interface)</p> [image, saved as "Interface_Commandments_img-02.png"] <p><GP gtype="controls">The
+                screen interface)</p> 
+            <img src="Interface_Commandments_img-02.png" alt=""/> <p><GP gtype="controls">The
                 player can then use the forward and back keys (W and S) on the pc or the left
                 thumpad on the Xbox to adjust the temperature. The nanite costs indicates how many
                 nanites it will take to make this adjustment. The bar sinister on the top arrow
@@ -460,8 +470,8 @@
                 the Xbox controller. Each genotype only has 3 skills that can be upgraded, so
                 selecting this will be a painless process that only requires (on the PC) the
                 [button] and [button] keys to cycle between genotypes, the [button] and [button]
-                keys to select an upgrade, a LMB to purchase an upgrade.</GP></p> [image, saved as
-            "Interface_Commandments_img-03.png"] <p>3- Thou shall be led slowly unto the valley of
+                keys to select an upgrade, a LMB to purchase an upgrade.</GP></p>
+            <img src="Interface_Commandments_img-03.png" alt=""/> <p>3- Thou shall be led slowly unto the valley of
                 gameplay depth.</p>
             <p><dev dtype="background">System Shock 2 made a huge mistake: we dumped all of the complexity on the player
                 from moment one. BioShock will address this issue. Besides just massively
@@ -642,8 +652,8 @@
                 good. We are self-funding an extension to the project with the publisher's blessing
                 to work strictly on balance and performance issues.</dev></p>
             <p><dev dtype="marketing">BioShock is budgeted with a nice sized balancing period at the end of the project,
-                the time where it is most effective.</dev></p> [image, saved as "Balance_img-01.png", with
-            caption "The joys of balancing The Lost"] </section>
+                the time where it is most effective.</dev></p>
+            <img src="Balance_img-01.png" alt="with caption; The joys of balancing The Lost"/> </section>
 
     </document>
 </GamePitch>
