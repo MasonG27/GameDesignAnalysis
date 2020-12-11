@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(50, 500)">
+      <rect width="20" height="333.7" x="40" y="-333.7" fill="#66FF00"/>
+      <rect width="20" height="59" x="60" y="-59" fill="#08E8DE"/>
+      <rect width="20" height="7.1" x="80" y="-7.1" fill="#FFF000"/>
+      <rect width="20" height="44.2" x="100" y="-44.2" fill="#FFAA1D"/>
+      <rect width="20" height="114" x="120" y="-114" fill="#FF007F"/>
+      <rect width="20" height="125.8" x="140" y="-125.8" fill="#B19CD9"/>
+      <line x1="20" y1="0" x2="180" y2="0" stroke="black"/>
+      <line x1="20" y1="0" x2="20" y2="-350" stroke="black"/>
+      <text x="100"
+            y="20"
+            style="text-anchor: middle"
+            font-family="sans-serif">BioShock</text>
+      <text x="100"
+            y="40"
+            style="text-anchor: middle"
+            font-family="sans-serif">Page length: 17</text>
+   </g>
+</svg>
