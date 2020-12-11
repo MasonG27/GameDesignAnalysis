@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
    <g transform="translate(50, 500)">
-      <rect width="20" height="333.7" x="40" y="-333.7" fill="#66FF00"/>
-      <rect width="20" height="59" x="60" y="-59" fill="#08E8DE"/>
-      <rect width="20" height="7.1" x="80" y="-7.1" fill="#FFF000"/>
-      <rect width="20" height="44.2" x="100" y="-44.2" fill="#FFAA1D"/>
-      <rect width="20" height="114" x="120" y="-114" fill="#FF007F"/>
-      <rect width="20" height="125.8" x="140" y="-125.8" fill="#B19CD9"/>
+      <rect width="20" height="6.1" x="40" y="-6.1" fill="#66FF00"/>
+      <rect width="20" height="3.7" x="60" y="-3.7" fill="#08E8DE"/>
+      <rect width="20" height="0" x="80" y="0" fill="#FFF000"/>
+      <rect width="20" height="6.8" x="100" y="-6.8" fill="#FFAA1D"/>
+      <rect width="20" height="0" x="120" y="0" fill="#FF007F"/>
+      <rect width="20" height="29.5" x="140" y="-29.5" fill="#B19CD9"/>
       <line x1="20" y1="0" x2="180" y2="0" stroke="black"/>
       <line x1="20" y1="0" x2="20" y2="-350" stroke="black"/>
       <text x="100"
             y="20"
             style="text-anchor: middle"
-            font-family="sans-serif">BioShock</text>
+            font-family="sans-serif">Flame in the Flood</text>
       <text x="100"
             y="40"
             style="text-anchor: middle"
-            font-family="sans-serif">Page length: 17</text>
+            font-family="sans-serif">Page length: 15</text>
       <text x="10" y="0" style="text-anchor: end" font-family="sans-serif">0</text>
       <text x="10"
             y="-25"
@@ -86,6 +86,6 @@
             y="70"
             style="text-anchor: middle"
             font-family="sans-serif"
-            font-size="12px">Image-to-Paragraph Ratio: 13%</text>
+            font-size="12px">Image-to-Paragraph Ratio: 54%</text>
    </g>
 </svg>

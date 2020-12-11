@@ -19,7 +19,7 @@
                 <line x1="20" y1="0" x2="180" y2="0" stroke="black"/>
                 <!--Y axis -->
                 <line x1="20" y1="0" x2="20" y2="-350" stroke="black"/>
-                <text x="100"  y="20" style="text-anchor: middle" font-family="sans-serif">BioShock</text>
+                <text x="100"  y="20" style="text-anchor: middle" font-family="sans-serif">Diablo</text>
                 <text x="100"  y="40" style="text-anchor: middle" font-family="sans-serif">Page length: <xsl:value-of select="count(//pb)"/></text>
                 <text x="10"  y="0" style="text-anchor: end" font-family="sans-serif">0</text>
                 <text x="10"  y="{(250 div 10) * -1}" style="text-anchor: end" font-family="sans-serif" font-size="10px">250</text>
