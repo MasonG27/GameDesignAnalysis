@@ -49,7 +49,7 @@
     </xsl:template>
     
     <xsl:template match="//*[name()='img']">
-        <img src="images/{./@src}" alt="{./@alt}"/>
+        <img src="{./@src}" alt="{./@alt}"/>
     </xsl:template>
     
     <xsl:template match="descendant::dev"><span class="dev"><xsl:value-of select="."/></span></xsl:template>

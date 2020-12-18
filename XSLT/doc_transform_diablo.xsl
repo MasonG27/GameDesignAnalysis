@@ -15,6 +15,7 @@
             <body>
                 <xsl:comment><xsl:value-of select="//meta"/></xsl:comment>
                 <xsl:comment>#include virtual="menu.html" </xsl:comment>
+                <xsl:comment>#include virtual="legend.html" </xsl:comment>
                 <h2>Diablo Game Pitch</h2>
                 <img src="{//start_page/img/@src}" alt="{//start_page/img/@alt}"/>
                 <div class="intro">
@@ -47,7 +48,7 @@
     </xsl:template>
     
     <xsl:template match="//*[name()='img']">
-        <img src="images/{./@src}" alt="{./@alt}"/>
+        <img src="{./@src}" alt="{./@alt}"/>
     </xsl:template>
     
     <xsl:template match="descendant::dev"><span class="dev"><xsl:value-of select="."/></span></xsl:template>
