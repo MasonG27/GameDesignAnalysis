@@ -9,15 +9,13 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>BioShock Game Pitch</title>
+                <title>Flame in the Flood Game Pitch</title>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
             </head>
             <body>
                 <xsl:comment>#include virtual="menu.html" </xsl:comment>
                 <xsl:comment>#include virtual="legend.html" </xsl:comment>
-                <h2>BioShock Game Pitch</h2>
-                <h3>Table of Contents</h3>
-                <ul><xsl:apply-templates select="//document/toc" mode="toc"/></ul>
+                <h2>Flame in the Flood Game Pitch</h2>
                 <img src="{//start_page/img/@src}" alt="{//start_page/img/@alt}"/>
                 <div class="intro">
                     <xsl:apply-templates select="//document/intro"/>
@@ -63,32 +61,4 @@
         <i>"<xsl:value-of select="."/>"</i>
     </xsl:template>
     
-    <xsl:template match="//document/toc/entry" mode="toc">
-        <li class="#{section/@name}"><a href="#{section/@name}"><em><xsl:value-of select="section"/></em></a>............ Page in Document: <xsl:value-of select="page_start"/></li>
-    </xsl:template>
-    
-    <xsl:template match="//GamePitch/meta"><xsl:comment><xsl:value-of select="//meta"/></xsl:comment></xsl:template>
-    
-    <xsl:template match="//*[name()='b']">
-        <li><xsl:value-of select="."/></li>
-    </xsl:template>
-    
-    <xsl:template match="//*[name()='item_list']">
-        <ul><xsl:apply-templates/></ul>
-    </xsl:template>
-    
-    <xsl:template match="//*[name()='page_quote']">
-        <hr/>
-        <p><i><xsl:value-of select="."/></i></p>
-        <hr/>
-    </xsl:template>
-    
 </xsl:stylesheet>
-
-
-
-
-
-
-
-

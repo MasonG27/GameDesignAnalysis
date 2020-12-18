@@ -6,7 +6,7 @@
     <xsl:output method="xhtml" encoding="utf-8"
         omit-xml-declaration="yes"/>
     
-    <xsl:template match="GamePitch/document">
+    <xsl:template match="/">
         <html>
             <head>
                 <title>Diablo Game Pitch</title>
@@ -31,7 +31,7 @@
     </xsl:template>
     
     <xsl:template match="//*[name()='title']">
-        <h3><xsl:value-of select="."/></h3>
+        <h3 class="#{ancestor::section/@name}"><xsl:value-of select="."/></h3>
     </xsl:template>
     
     <xsl:template match="//*[name()='p']">
@@ -39,18 +39,15 @@
     </xsl:template>
     
     <xsl:template match="//document/section">
-        <xsl:if test="title"><xsl:apply-templates select="title"/></xsl:if>
-        <xsl:if test="subTitle"><xsl:apply-templates select="subTitle"/></xsl:if>
-        <xsl:if test="img"><xsl:apply-templates select="img"/></xsl:if>
-        <xsl:apply-templates select="p"/>
+        <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="//*[name()='subTitle']">
         <h4><xsl:value-of select="."/></h4>
     </xsl:template>
     
-    <xsl:template match="//document/section/img">
-        <img src="{./@src}" alt="{./@alt}"/>
+    <xsl:template match="//*[name()='img']">
+        <img src="images/{./@src}" alt="{./@alt}"/>
     </xsl:template>
     
     <xsl:template match="descendant::dev"><span class="dev"><xsl:value-of select="."/></span></xsl:template>
@@ -59,5 +56,9 @@
     <xsl:template match="descendant::lore"><span class="lore"><xsl:value-of select="."/></span></xsl:template>
     <xsl:template match="descendant::PC"><span class="PC"><xsl:value-of select="."/></span></xsl:template>
     <xsl:template match="descendant::NPC"><span class="NPC"><xsl:value-of select="."/></span></xsl:template>
+    
+    <xsl:template match="//*[name()='quote']">
+        <i>"<xsl:value-of select="."/>"</i>
+    </xsl:template>
     
 </xsl:stylesheet>

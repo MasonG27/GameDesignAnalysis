@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Game Design Analysis - Updates</title>
         <link type="text/css" href="style.css" rel="stylesheet"/>
@@ -11,7 +12,7 @@
         <h3>Update 1 - 09/23/2020</h3>
         <p>For the first update, we gathered some information and will begin our project on the original BioShock game. 
             After some conversion, we got a raw text file and edited slightly to include bullet points and other symbol recognition.</p>
-        <img src="images/BioShockPitch.PNG"
+        <img src="images/BioshockPitch.PNG"
             alt="Pitch document from the original BioShock Game"/>
         
         <h3>Update 2 - 10/05/2020</h3>
@@ -34,7 +35,7 @@
         
         <h3>Update 4 - 11/10/2020</h3>
         <p>We made significant progress on XML markup for the BioShock document.</p>
-        <img src="images/BioShockMarkup.PNG"
+        <img src="images/BioshockMarkup.PNG"
             alt="BioShock markup screenshot" />
         <p>We also made great progress on the schema, making some adjustments as we progressed through the BioShock document.</p>
         <img src="images/SchemaUpdate1.PNG"
@@ -42,6 +43,33 @@
         <p>Added lots of content to the website. Continuing to think of different ideas for the final layout in order to keep things accessible and organized.</p>
         
         <h3>Update 5 - 12/09/2020</h3>
-        <p>The website was edited and updated to aid in accessability and organization, and a Creative Commons license was added. All website code is available on our project's <a href="https://github.com/MasonG27/GameDesignAnalysis">GitHub repo</a>.</p>
+        <p>The website was edited and updated to aid in accessability and organization, and a Creative Commons license was added. All website code is available on our project's <a href="https://github.com/MasonG27/GameDesignAnalysis" target="_blank">GitHub repo</a>.</p>
+        
+        <h3>Update 6 - 12/17/2020</h3>
+        <p>Added a huge change to the schema. We added a new section called Gameplay patterns in order to highlight different use of gameplay elements throughout the documents. We also did some minor tweaks to the structure in order to validate the new markups.</p>
+        <img src="images/schema_update.png" alt="View of updated schema."/>
+        
+        <h3>Update 7 - 12/17/2020</h3>
+        <p>Finished up the xml markup for all four of our pitch documents.
+            Began production of xslt with the use of highlighting key game play elements.
+        </p>
+        <img src="images/legend_update.png" alt="Legend found on document pages"/>
+        <img src="images/xslt_update.png" alt="View of updated XSLT."/>
+        
+        <h3>Update 8 - 12/17/2020</h3>
+        <p>Development of SVG to show a visual comparison of our documents.</p>
+        <img src="images/xslt-to-svg.png" alt="XSLT used to make SVG files."/>
+        <img src="images/svg.png" alt="SVG files."/>
+        
+        <h3>Update 9 - 12/17/2020</h3>
+        <p>For our final update on the project we just wanted to give some feedback on what we accomplished with this project as well as some other results.</p>
+            <h4>Positives</h4>  
+            <ul><li>Saw differences through the structure and game information between documents</li>
+            <li>Separate tree of elements and attributes to markup the game play patterns in the pitch documents (gameplay, lore, setting, etc.)</li>
+            <li>Biggest comparison is the differences between BioShock (most detailed) vs the Flame in the Flood (image heavy)</li></ul> 
+            <h4>Negatives</h4> 
+            <ul><li>Each pitch document was unique in structure, so it was difficult to create a schema that encompassed everything we wanted</li>
+            <li>Because of highlighting both structure and patterns, we had to use a lot of different tags</li>
+            <li>Often there are tags inside of tags</li></ul>
         </body>
 </html>

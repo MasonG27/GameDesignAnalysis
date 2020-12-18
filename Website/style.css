@@ -46,44 +46,42 @@ a:active {
     background-color: #66FF00;
     padding-left: 1px;
     padding-right: 1px;
-    text-decoration: underline wavy;
 }
 .PC {
     background-color: #08E8DE;
     padding-left: 1px;
     padding-right: 1px;
-    text-decoration: underline wavy;
 }
 .NPC {
     background-color: #FFF000;
     padding-left: 1px;
     padding-right: 1px;
-    text-decoration: underline wavy;
 }
 .setting {
     background-color: #FFAA1D;
     padding-left: 1px;
     padding-right: 1px;
-    text-decoration: underline wavy;
 }
 .lore {
     background-color: #FF007F;
     color: white;
     padding-left: 1px;
     padding-right: 1px;
-    text-decoration: underline wavy black;
 }
 .dev {
     background-color: #B19CD9;
     padding-left: 1px;
     padding-right: 1px;
-    text-decoration: underline wavy;
 }
 .cclicense {
     text-align: center;
 }
-
-
+img {
+    width: 250px;
+}
+h2 {
+    text-align:center;
+}
 
 
 
